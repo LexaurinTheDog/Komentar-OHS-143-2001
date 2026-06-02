@@ -88,6 +88,11 @@ Naopak — zákon **nestanoví domněnku dominance** při přesahu 40 %. Překro
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 5730/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72148A0ACB7BBBC5C12580060030F8DB?openDocument) — 1. 6. 2016, kat. A
+  > „Za zneužití dominantního postavení soutěžitele nelze považovat, že dominantní soutěžitel neuzavřel požadovaný obchod (prodej sebraného elektroodpadu) s žádným subjektem, ani jednání vlastníka sítě zpětného odběru elektrozařízení, kterým brání v jejím využití jinému soutěžiteli"
+
 #### Struktura zákazu — generální klauzule a demonstrativní výčet (odst. 1)
 
 § 11 odst. 1 je konstruován jako **generální klauzule** doplněná demonstrativním výčtem (*„zejména"*). To znamená, že jednání nenaplňující žádnou z písm. a)–f) může přesto být zakázáno, pokud naplní obecnou podmínku — způsobuje újmu jiným soutěžitelům nebo spotřebitelům. Tento přístup odpovídá unijní doktríně k čl. 102 SFEU, kde Soudní dvůr EU opakovaně zdůraznil, že výčet forem zneužití v čl. 102 písm. a)–d) je rovněž demonstrativní a nevylučuje jiné formy.
@@ -626,6 +631,11 @@ Obě lhůty jsou prekluzivní (zákon říká „může Úřad zahájit do"): je
 > *(7) Pokud se narušení hospodářské soutěže dopustí orgán územní samosprávy při výkonu samosprávy nebo při přeneseném výkonu státní správy, zašle Úřad orgánu příslušnému k výkonu dozoru podle zvláštního právního předpisu pravomocné rozhodnutí podle odstavce 3 a na jeho žádost mu postoupí i správní spis.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 2170/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D30C9A99B96EAACC12589B000373273?openDocument) — 30. 11. 2021, kat. A
+  > „K projednání a rozhodnutí žaloby, aby se stát zdržel pokračování výběrového řízení pro příděl rádiových kmitočtů, jsou v prvním stupni věcně příslušné soudy ve správním soudnictví"
 
 #### Vznik a účel Hlavy IVa
 

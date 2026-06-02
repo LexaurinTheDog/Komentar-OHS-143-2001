@@ -34,6 +34,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 3473/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BE1EC54073E5753DC1257A4E00668B30?openDocument) — 27. 9. 2011, kat. A
+  > „Pro závěr, jestli smluvní strana neplatnost právního úkonu (smlouvy) podle ustanovení § 268 obch. zák. způsobila, jsou významné zejména okolnosti předsmluvního jednání stran o uzavírané smlouvě, přípravy návrhu smlouvy nebo případné předsmluvní povinnosti stran stanovené zákonem či dohodou stran. Za situace, kdy Úřad pro ochranu hospodářské soutěže, jako orgán dohledu nad zadáváním veřejných zakázek, veřejnému zadavateli sdělil, že při uzavírání smluv na dodávky komplexních lesnických činností nemá postupovat podle zákona č. 40/2004 Sb., o zadávání veřejných zakázek, a veřejný zadavatel proto podle citovaného zákona nepostupoval, ač postupovat měl, nelze dospět k závěru, že způsobil neplatnost smluv uzavřených postupem nesouladným se zákonem č. 40/2004 Sb. a že druhé smluvní straně podle ustanovení § 268 obch. zák. odpovídá za škodu"
+
 #### Institucionální základ — zákonná odchylka na zvláštní předpis (odst. 1 věta první)
 
 Odst. 1 věta první odkazuje na zvláštní právní předpis upravující **působnost Úřadu** jako správního úřadu — tímto předpisem je zákon č. 273/1996 Sb., o působnosti Úřadu pro ochranu hospodářské soutěže (dále „zákon o působnosti ÚOHS"), ve znění pozdějších předpisů. Ten vymezuje ÚOHS jako ústřední správní úřad s celostátní příslušností sídlící v Brně, v jehož čele stojí předseda jmenovaný vládou na návrh ministra pro místní rozvoj (resp. příslušného člena vlády). Zákon o ochraně hospodářské soutěže (dále „ZOHS") s tím pracuje tak, že nestanoví organizační strukturu, personální obsazení ani způsob financování ÚOHS — to vše přenechává zvláštnímu předpisu a zákonné praxi.
