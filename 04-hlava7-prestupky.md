@@ -81,6 +81,43 @@ Absence relativní obrátové sazby u fyzických osob (na rozdíl od § 22a odst
 
 Klausule „není-li dále stanoveno, že za přestupek podle odstavce 1 písm. b) se pokuta neuloží" odkazuje na leniency program v § 22ba — plné upuštění od pokuty tam, kde soutěžitel jako první předloží informace o utajované dohodě a splní podmínky shovívavosti.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Jan N. je fyzická osoba podnikající na základě živnostenského oprávnění (OSVČ) — provozuje malou pekárnu a je tedy „soutěžitelem" ve smyslu § 2 odst. 1 OHS. Spolu se dvěma dalšími regionálními pekaři se ústně domluvil, že nebudou snižovat ceny chleba pod stanovenou hladinu a rozdělí si odběratelská města. Úřad obdrží podnět od odběratele a provede u Jana N. šetření na místě v provozovně podle § 21f odst. 3; Jan N. zaměstnance Úřadu odmítne vpustit do kanceláře a odešle je pryč. Důkazy, které by bylo třeba obstarat: e-mailová a SMS komunikace mezi pekaři, ceníky před a po domluvě, svědecké výpovědi odběratelů, protokol o neúspěšném pokusu o šetření na místě, případně záznamy z leniency žádosti jiného účastníka.
+
+**2. Právní otázka.** Dopustil se Jan N. jako fyzická osoba-soutěžitel souběhu přestupků podle § 22 odst. 1 písm. b) (zakázaná dohoda) a podle § 22 odst. 1 písm. g) (neposkytnutí součinnosti při šetření na místě), a v jaké výši mu lze uložit pokutu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22 odst. 1 písm. b) a g), odst. 3 OHS — přestupky fyzické osoby jako soutěžitele s absolutními horními hranicemi pokuty (10 000 000 Kč, resp. 300 000 Kč).
+- *Související ustanovení téhož zákona:* § 3 odst. 1 (zákaz dohod narušujících soutěž — hmotněprávní jádro skutku b)); § 21f odst. 3 (povinnost strpět šetření — hmotněprávní jádro skutku g)); § 22b odst. 1 a 2 (kritéria výměry pokuty, odkaz na § 20, 21 zákona č. 250/2016 Sb.); § 22ba (leniency — možné upuštění od pokuty u skutku b)); § 23 odst. 1 a 2 (10letá, resp. 3letá promlčecí doba).
+- *Související předpisy:* zákon č. 250/2016 Sb., o odpovědnosti za přestupky (§ 20, 21 — zavinění, jednání); čl. 101 SFEU a nařízení č. 1/2003 (paralelní unijní rámec, je-li dotčen obchod mezi členskými státy).
+- *Judikatura:* k pojmu „soutěžitel" jako hospodářské jednotky a k objektivní povaze soutěžních deliktů viz nosné závěry SDEU (např. ve věci Höfner a Elser k pojmu podnik) a ustálená praxe NSS, podle níž bagatelní velikost soutěžitele nevylučuje protisoutěžní charakter cenového a rozdělovacího kartelu (hard-core dohoda je zakázaná bez ohledu na podíl na trhu — cíl narušení soutěže postačuje).
+
+**4. Subsumpce.** Jan N. je fyzickou osobou a zároveň soutěžitelem (podniká) → spadá pod § 22, nikoli pod § 22a (ten dopadá na právnické a podnikající fyzické osoby — pozor: podnikající fyzická osoba je systematicky v § 22a, viz níže Varianty). Ústní cenová a rozdělovací dohoda je dohodou „v rozporu s § 3 odst. 1" → znak skutku b) je naplněn (jde o cílovou hard-core dohodu, účinek se neprokazuje). Odmítnutí vpustit zaměstnance Úřadu do provozovny naplňuje „neposkytnutí nezbytné součinnosti při šetření na místě v obchodních prostorách" podle § 21f odst. 3 → znak skutku g). Subjektivní stránka se u podnikající fyzické osoby posuzuje podle § 22b odst. 2 ve spojení se zákonem č. 250/2016 Sb.
+
+**5. Řešení.** Pozor na zařazení subjektu: provozuje-li Jan N. živnost, je „podnikající fyzickou osobou" a správně spadá pod § 22a (sazby s obrátovou bází), nikoli pod § 22. Ustanovení § 22 dopadá na fyzickou osobu-soutěžitele, jíž v praxi bývá podnikající fyzická osoba — terminologicky se § 22 a § 22a v písm. a)–g) překrývají, rozdíl je v sazbě. Pokud by Jan N. byl posouzen podle § 22, hrozí mu za skutek b) pokuta do 10 000 000 Kč a za skutek g) samostatně do 300 000 Kč; sankce se ukládá podle absorpční zásady (úhrnný trest za nejpřísněji postižitelný přestupek se zostřením). Procesně: Úřad zahájí řízení (přeruší se promlčecí doba dle § 23 odst. 4 písm. a)), vydá sdělení výhrad, umožní leniency/narovnání. Riziko: chybná subsumpce subjektu (§ 22 vs. § 22a) je v praxi nejčastější vada — vede k uložení nesprávné sazby.
+
+**6. Varianty.** (a) Kdyby Jan N. NEPODNIKAL a do cenové domluvy by vstoupil jako soukromá osoba bez soutěžitelského postavení, skutek b) by nebylo možné podřadit pod § 22 odst. 1 (chybí znak „jako soutěžitel"); odpovídal by jen za případné procesní přestupky podle § 22 odst. 2. (b) Kdyby byl prvním účastníkem kartelu, který předloží Úřadu utajenou dohodu a splní podmínky § 22ba odst. 1 písm. a), pokuta za skutek b) by se neuložila vůbec (in fine § 22 odst. 3) — odpovědnost za skutek g) by však trvala.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Jan N. měl být souzen podle § 22, ne § 22a, protože je fyzická osoba."* Neutralizace: rozhodující není biologická povaha subjektu, nýbrž to, zda jde o „podnikající fyzickou osobu" — ta je výslovně adresátem § 22a. § 22 míří na fyzickou osobu-soutěžitele v užším smyslu; v praxi ÚOHS se podnikající fyzická osoba (živnostník) postihuje podle § 22a s obrátovou sazbou. Správná subsumpce subjektu je proto klíčová a musí být v rozhodnutí odůvodněna.
+- *Protiargument 2: „Šlo jen o ústní, nezávaznou domluvu bez prokázaného dopadu na ceny."* Neutralizace: u hard-core dohod (cenová, rozdělovací) je rozhodující protisoutěžní cíl, nikoli prokázaný účinek; forma (ústní) je nerozhodná. Slabým místem je dokazování existence dohody — proto je nutná listinná/elektronická stopa nebo leniency výpověď spoluúčastníka.
+- *Slabá místa:* terminologický překryv § 22 a § 22a (riziko záměny sazby); u skutku g) je nutné prokázat, že šlo o „nezbytnou" součinnost a že výzva/pokus o šetření byly řádně vedeny (protokol). Chybějící protokol o šetření oslabuje skutek g).
+
+#### H. Praktický závěr
+
+V praxi § 22 vymezuje přestupky fyzické osoby-soutěžitele se sazbami v absolutních částkách (300 000 Kč / 10 000 000 Kč), bez obrátové báze. Klíčové je správně určit, zda subjekt je „podnikající fyzickou osobou" (pak § 22a), nebo fyzickou osobou-soutěžitelem v užším smyslu (§ 22). Skutky b)–f) jsou hmotněprávní (až 10 mil. Kč), skutky a), g) a odst. 2 procesní (až 300 tis. Kč). U skutku b) je vždy třeba zvážit leniency.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je subjekt fyzická osoba-soutěžitel (§ 22), nebo podnikající fyzická osoba (§ 22a)? Odůvodnit subsumpci subjektu.
+- [ ] Která z písmen a)–g) odst. 1 nebo odst. 2 jsou naplněna? Rozlišit hmotněprávní (b–f) a procesní (a, g, odst. 2).
+- [ ] Je u skutku b) namístě leniency podle § 22ba (úplné upuštění od pokuty)?
+- [ ] Aplikovat správnou sazbu (300 000 / 10 000 000 Kč) a absorpční zásadu při souběhu.
+- [ ] Ověřit běh promlčecí doby (§ 23 odst. 1 vs. odst. 2) a její přerušení zahájením řízení.
+
+**Typicky rozhodné důkazy / podklady:** elektronická a listinná komunikace mezi soutěžiteli, ceníky před/po dohodě, svědecké výpovědi odběratelů, protokol o šetření na místě a o jeho zmaření, případné leniency podání spoluúčastníků, doklad o postavení subjektu jako soutěžitele (živnostenský/obchodní rejstřík).
+
 ---
 
 ### § 22a — Přestupky právnických osob a podnikajících fyzických osob
@@ -185,6 +222,43 @@ Běh doby zákazu počíná **nabytím právní moci rozhodnutí**, nikoli dnem 
 
 V odst. 1 písm. f) zdroje je použit výraz „úřadem" s malým počátečním písmenem (oproti jiným odstavcům, kde je „Úřad" psán s velkým U). Jde o textovou nejednotnost zákona, která nemá vliv na výklad — zjevně se jedná o tentýž Úřad pro ochranu hospodářské soutěže jako subjekt ukládající opatření k nápravě.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost ALFA, a.s., mateřská obchodní korporace skupiny, a její 100% dceřiná BETA, s.r.o., se spolu se třemi konkurenty účastnily bid riggingu — koordinovaly nabídky ve veřejné zakázce na stavbu silnice (rozdělení tendrů, krycí nabídky). Čistý obrat skupiny ALFA/BETA za poslední ukončené účetní období činil 2 mld. Kč. Úřad jednání odhalí (mj. díky leniency žádosti jednoho z konkurentů) a zahájí řízení. Důkazy: zadávací dokumentace a podané nabídky, vzájemná komunikace o cenách, leniency podání konkurenta, účetní závěrky pro výpočet 10 % obratu, organizační schéma skupiny prokazující hospodářskou jednotu mateřské a dceřiné společnosti.
+
+**2. Právní otázka.** Z jakého obratu a vůči které entitě skupiny se vyměří pokuta podle § 22a odst. 3, kdo za ni ručí podle odst. 4, a lze vedle pokuty uložit zákaz plnění veřejných zakázek podle odst. 6?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22a odst. 1 písm. b), odst. 3 (dvojí strop: 10 000 000 Kč nebo 10 % čistého obratu), odst. 4 (solidární odpovědnost osob tvořících jednoho soutěžitele), odst. 6–8 (zákaz plnění veřejných zakázek a veřejný rejstřík).
+- *Související ustanovení téhož zákona:* § 3 odst. 1 (zakázaná dohoda); § 2 odst. 1 (pojem soutěžitele jako hospodářské jednotky); § 22b odst. 1 a 3 (kritéria výměry, odpovědnost právního nástupce); § 22ba a § 22bb (leniency a narovnání s dopadem na zákaz VZ — odst. 6 věty druhá a třetí).
+- *Související předpisy:* čl. 23 odst. 2 nařízení Rady (ES) č. 1/2003 (10% strop u Komise — srovnatelnost); směrnice 2019/1 (ECN+), zejm. čl. 14 a 16 (sankce, pokuty sdružení, zákaz účasti); zákon č. 134/2016 Sb., o zadávání veřejných zakázek (kvalifikace a vyloučení dodavatele s ohledem na rejstřík dle odst. 8).
+- *Judikatura:* doktrína hospodářské jednotky a solidární odpovědnosti mateřské a dceřiné společnosti — nosné závěry SDEU ve věcech Akzo Nobel (presumpce rozhodujícího vlivu u 100% dcery) a Aalborg Portland (hospodářská kontinuita); k pokutě sdružení a individuální culpabilitě člena rozsudek SDEU T-Mobile Netherlands.
+
+**4. Subsumpce.** ALFA i BETA jsou právnické osoby-soutěžitelé → spadají pod § 22a. Bid rigging je dohoda v rozporu s § 3 odst. 1 → znak skutku b). ALFA (100% mateřská) a BETA tvoří jednoho soutěžitele (hospodářskou jednotku) → pokuta se vyměří soutěžiteli z obratu celé skupiny (2 mld. Kč → strop 10 % = 200 mil. Kč, což je vyšší než absolutní strop 10 mil. Kč, proto se uplatní obrátový strop). Za úhradu odpovídají ALFA i BETA společně a nerozdílně (odst. 4). Jelikož jde o jednání „v souvislosti se zadáváním veřejné zakázky", je splněn nexus pro zákaz plnění veřejných zakázek (odst. 6) — standardní délka až 3 roky.
+
+**5. Řešení.** Úřad vyměří pokutu soutěžiteli (skupině) s obrátovým stropem 10 % z 2 mld. Kč; konkrétní výše se odvíjí od kritérií § 22b odst. 1 (závažnost, následky, délka, chování v řízení). ALFA a BETA ručí solidárně (odst. 4). Vedle pokuty Úřad zváží zákaz plnění veřejných zakázek (odst. 6) na dobu až 3 let; po nabytí právní moci se osoba zapíše do veřejného rejstříku (odst. 8) a běh zákazu počne právní mocí (odst. 7). Pozor: pokud by ALFA/BETA byly leniency žadatelem s upuštěním od pokuty dle § 22ba odst. 1 písm. a) nebo snížením dle písm. b), zákaz VZ NELZE uložit; při narovnání (§ 22bb) jen na max. 1 rok. Riziko pro Úřad: řádně odůvodnit, že dceřiná a mateřská společnost tvoří hospodářskou jednotku (jinak nelze počítat obrat za skupinu).
+
+**6. Varianty.** (a) Kdyby šlo o sdružení soutěžitelů (oborový svaz), pokuta by se podle odst. 5 mohla vyměřit až do 10 % z ÚHRNU obratů všech členů s následným třístupňovým ručením členů; člen, který rozhodnutí svazu neprovedl a o něm nevěděl, by neručil. (b) Kdyby kartel NEMĚL souvislost s veřejnou zakázkou (např. čistě soukromoprávní cenová dohoda), zákaz plnění VZ podle odst. 6 by nebylo možné uložit — chybí zákonný nexus.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Pokuta měla být vyměřena jen z obratu BETA, která se zakázky účastnila, ne z obratu celé skupiny."* Neutralizace: pojem soutěžitele je hospodářský, nikoli právní; tvoří-li ALFA a BETA jednu hospodářskou jednotku (presumpce u 100% dcery dle Akzo Nobel), počítá se obrat za celou skupinu a obě entity ručí solidárně dle odst. 4. Klíčem je důkaz rozhodujícího vlivu mateřské společnosti.
+- *Protiargument 2: „Obrátová sazba je pro nás likvidační / nepřiměřená."* Neutralizace: 10% strop je horní hranice, nikoli povinná výše; konkrétní pokuta se individualizuje dle § 22b odst. 1. Navíc odst. 3 in fine umožňuje od obrátové báze upustit, „pokud by tak nebylo dosaženo účelu uložení pokuty" — to však chrání i opačně (např. nulový obrat).
+- *Slabá místa:* prokázání hospodářské jednotky a rozhodujícího vlivu; správné určení „posledního ukončeného účetního období" ke dni rozhodnutí; u zákazu VZ nutnost prokázat nexus s veřejnou zakázkou a respektovat výjimky leniency/narovnání (odst. 6 in fine).
+
+#### H. Praktický závěr
+
+§ 22a je nejvýznamnějším sankčním ustanovením OHS. Pokuta se ukládá soutěžiteli jako hospodářské jednotce; platí dvojí strop max(absolutní, 10 % obratu) a u skupiny solidární odpovědnost (odst. 4). U sdružení se uplatní zvláštní obrátová báze a třístupňové ručení (odst. 5). U kartelů s vazbou na veřejné zakázky lze vedle pokuty uložit zákaz plnění VZ na 1–3 roky (odst. 6–8) s evidencí ve veřejném rejstříku; leniency tento zákaz vylučuje.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Tvoří více entit jednoho soutěžitele (hospodářská jednotka)? Doložit rozhodující vliv → solidární odpovědnost dle odst. 4.
+- [ ] Určit poslední ukončené účetní období a čistý obrat soutěžitele/skupiny → aplikovat strop max(absolutní, 10 %).
+- [ ] Jde o sdružení soutěžitelů? Pak obrátová báze z úhrnu obratů členů + třístupňové ručení (odst. 5).
+- [ ] Má skutek b) souvislost s veřejnou zakázkou → zvážit zákaz plnění VZ (odst. 6) a délku (3 roky / 1 rok / vyloučeno dle leniency).
+- [ ] Po právní moci zajistit zápis do veřejného rejstříku (odst. 8); ověřit u zadavatelů.
+
+**Typicky rozhodné důkazy / podklady:** zadávací dokumentace a nabídky, komunikace soutěžitelů, leniency podání, účetní závěrky (výpočet obratu), organizační/vlastnické schéma skupiny (hospodářská jednotka), doklady o rozhodujícím vlivu mateřské společnosti.
+
 ---
 
 ### § 22aa — Přestupky orgánů veřejné správy
@@ -237,6 +311,43 @@ Na rozdíl od § 22a odst. 3 zákon u orgánů veřejné správy nestanoví rela
 | Odst. 1 písm. b), c) nebo d) — hmotněprávní (narušení soutěže, nesplnění závazku/rozhodnutí) | 10 000 000 Kč |
 
 Absence obrátové sazby je logická — orgány veřejné správy nemají „čistý obrat" v podnikatelském smyslu; základem jejich hospodaření jsou rozpočtové příjmy a výdaje. Zákonodárce zvolil pevné stropy, přičemž maximální pokuta 10 000 000 Kč je pro orgány veřejné správy typicky dostatečně odstrašující. Na leniency program (§ 22ba) se orgány veřejné správy nevztahují — jsou vyloučeny konstrukcí § 22ba odst. 1, který dopadá výlučně na přestupky podle § 22 odst. 1 písm. b) nebo § 22a odst. 1 písm. b).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Statutární město X zřídí vlastní příspěvkovou organizaci na svoz komunálního odpadu a zároveň obecně závaznou vyhláškou fakticky znemožní soukromým konkurentům vstup na trh svozu odpadu na svém území (vyhradí činnost jen své organizaci bez objektivního ospravedlnění). Soukromý konkurent podá podnět k Úřadu. Úřad zahájí řízení podle § 19a (narušení soutěže orgánem veřejné správy) a v rámci šetření vyžádá od města podle § 21e odst. 1 obchodní záznamy a smlouvy; město podklady ve lhůtě neposkytne. Důkazy: text vyhlášky a její dopad na trh, analýza vyloučení konkurentů, výzva Úřadu k poskytnutí podkladů a doklad o jejím marném uplynutí, ekonomická data o trhu svozu odpadu.
+
+**2. Právní otázka.** Dopustilo se město X přestupku podle § 22aa odst. 1 písm. b) (narušení soutěže dle § 19a odst. 1) a souběžně přestupku podle písm. e) (neposkytnutí obchodních záznamů), a jaké pokuty mu lze uložit, neexistuje-li u orgánu veřejné správy „čistý obrat"?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22aa odst. 1 písm. b) a e), odst. 2 (sazby výlučně absolutní: 10 000 000 Kč pro hmotněprávní, 300 000 Kč pro procedurální přestupky).
+- *Související ustanovení téhož zákona:* § 19a odst. 1 (zákaz narušení soutěže orgánem veřejné správy podporou zvýhodňující určitého soutěžitele); § 19a odst. 4 (závazky); § 20 odst. 4 (opatření k nápravě); § 21e odst. 1 a § 21f (informační a šetřící povinnosti); § 22b odst. 1 (kritéria výměry pokuty pro orgán veřejné správy); § 23 (promlčení).
+- *Související předpisy:* zákon č. 128/2000 Sb., o obcích (samostatná působnost, vydávání obecně závazných vyhlášek); zákon č. 134/2016 Sb. (zadávání), je-li relevantní; ústavní rámec ochrany hospodářské soutěže (čl. 98 odst. 1 Ústavy nepřímo, zásada rovnosti). Leniency (§ 22ba) se NEPOUŽIJE — dopadá jen na § 22 odst. 1 písm. b) a § 22a odst. 1 písm. b).
+- *Judikatura:* k aplikaci § 19a na orgány veřejné správy a k mezím samosprávy při regulaci místních trhů viz nosné závěry NSS, podle nichž obec nesmí bez objektivního a přiměřeného důvodu znevýhodnit soutěžitele oproti jí zřízené entitě; k pojmu narušení soutěže veřejnou mocí přiměřeně judikatura SDEU k čl. 106 SFEU.
+
+**4. Subsumpce.** Město X je orgánem veřejné správy → spadá pod § 22aa, nikoli § 22/§ 22a. Vyhláškové vyloučení soukromých konkurentů ve prospěch vlastní organizace bez objektivního ospravedlnění naplňuje „narušení hospodářské soutěže v rozporu s § 19a odst. 1" → znak skutku b) (hmotněprávní, do 10 mil. Kč). Neposkytnutí vyžádaných obchodních záznamů ve lhůtě naplňuje skutek e) podle § 21e odst. 1 (procedurální, do 300 tis. Kč). Obrátová báze se nepoužije — orgán veřejné správy nemá čistý obrat; pokuta je výlučně v absolutních mezích.
+
+**5. Řešení.** Úřad uzná město vinným ze skutku b) a vyměří pokutu do 10 000 000 Kč podle kritérií § 22b odst. 1 (závažnost, následky na trhu, dosah, chování v řízení) a samostatně za skutek e) do 300 000 Kč; při souběhu se uplatní absorpční zásada. Leniency ani narovnání se na hmotněprávní skutek orgánu veřejné správy v plném rozsahu nevztahují tak jako u soutěžitelů (leniency vyloučena konstrukcí § 22ba). Procesní postup: zahájení řízení přeruší promlčecí dobu (§ 23 odst. 4 písm. a)); pro skutek e) platí kratší 3letá promlčecí doba (§ 23 odst. 2). Riziko: nutné odlišit jednání města v samostatné působnosti od jednání, jež je výkonem normotvorby chráněné jinými předpisy — Úřad musí prokázat, že šlo o narušení soutěže ve smyslu § 19a, nikoli o legitimní regulaci.
+
+**6. Varianty.** (a) Kdyby město pouze nesplnilo opatření k nápravě uložené Úřadem podle § 20 odst. 4 (skutek d)), šlo by rovněž o hmotněprávní přestupek do 10 mil. Kč, avšak skutkově odlišný (neuposlechnutí rozhodnutí, nikoli prvotní narušení). (b) Kdyby město podklady poskytlo, ale neúplné či nepravdivé, skutek e) by byl naplněn rovněž (§ 21e odst. 1 vyžaduje úplnost, správnost a pravdivost), zatímco prosté zpoždění s následným doplněním by Úřad mohl řešit i pořádkovou pokutou (§ 22c).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Obec jednala v samostatné působnosti a vydávání vyhlášek je ústavně chráněná normotvorba, nelze ji za to sankcionovat."* Neutralizace: § 19a a § 22aa míří právě na situace, kdy orgán veřejné správy svým jednáním (včetně normotvorby) bez objektivního ospravedlnění naruší soutěž; ochrana samosprávy není absolutní a ustupuje zákazu narušení soutěže veřejnou mocí. Úřad musí prokázat absenci objektivního a přiměřeného důvodu zvýhodnění.
+- *Protiargument 2: „Pokuta z obratu nelze, takže sankce je bezzubá."* Neutralizace: zákonodárce vědomě zvolil pevné stropy (orgán nemá obrat); 10 mil. Kč je z rozpočtu obce citelná částka a plní odstrašující funkci. Absence obrátové báze je u veřejných subjektů logická, nikoli mezerou.
+- *Slabá místa:* nutnost prokázat naplnění § 19a odst. 1 (zvýhodnění bez objektivního ospravedlnění) — hranice mezi legitimní regulací a narušením soutěže je skutkově náročná; vyloučení leniency znamená, že orgán nemůže „obchodovat" spolupráci za imunitu.
+
+#### H. Praktický závěr
+
+§ 22aa je zvláštní skutkovou podstatou pro orgány veřejné správy (stát, obce, kraje) navázanou na § 19a. Sazby jsou výlučně absolutní (300 000 Kč procedurální / 10 000 000 Kč hmotněprávní), bez obrátové báze, protože orgán nemá čistý obrat. Leniency program se nepoužije. Klíčové je odlišit legitimní výkon veřejné moci od narušení soutěže bez objektivního ospravedlnění.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je pachatelem orgán veřejné správy (§ 22aa), nikoli soutěžitel (§ 22/§ 22a)?
+- [ ] Naplňuje jednání § 19a odst. 1 — zvýhodnění určitého soutěžitele bez objektivního a přiměřeného ospravedlnění?
+- [ ] Rozlišit hmotněprávní skutky b), c), d) (do 10 mil. Kč) a procedurální a), e), f), g) (do 300 tis. Kč).
+- [ ] Vyloučit aplikaci leniency (§ 22ba) — na orgán veřejné správy nedopadá.
+- [ ] Ověřit promlčecí dobu (§ 23 odst. 1 obecná / odst. 2 procedurální skutky).
+
+**Typicky rozhodné důkazy / podklady:** text vyhlášky/opatření orgánu a jeho dopad na trh, ekonomická analýza vyloučení konkurentů, výzva Úřadu a doklad o (ne)poskytnutí podkladů, smlouvy a interní akty orgánu, podnět dotčeného soutěžitele.
 
 ---
 
@@ -331,6 +442,43 @@ Pokud obviněný pokračuje v protiprávním jednání (např. pokračující ka
 #### Nevyrozumění dotčené osoby o odložení věci (odst. 10)
 
 Na rozdíl od standardního přestupkového řízení (§ 76 odst. 3 PŘ) se osoba dotčená jednáním podezřelého (typicky poškozený — konkurent, zákazník) **nevyrozumí** o odložení věci. Zákonodárce zvolil tuto výjimku s ohledem na citlivost soutěžního šetření a zájmy na zachování důvěrnosti informací.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost GAMA, s.r.o., byla pravomocně uznána vinnou z kartelu a uložena jí pokuta. Před nabytím právní moci došlo k přeměně: GAMA byla fúzí sloučena do nástupnické DELTA, a.s., na niž přešel celý závod, zákazníci i zisk z kartelu, a DELTA pokračuje v téže výrobní činnosti. Současně v paralelní věci Úřad vede společné řízení proti pěti soutěžitelům, přičemž s jedním z nich (EPSILON) hodlá uzavřít narovnání, zatímco ostatní obstruují. Důkazy: projekt přeměny a doklady o přechodu jmění, účetní podklady o výnosech z kartelu přešlých na nástupce, doklad o kontinuitě činnosti, procesní spisy obou řízení.
+
+**2. Právní otázka.** Lze pokutu za přestupek GAMA vyměřit jejímu právnímu nástupci DELTA podle § 22b odst. 3, a může Úřad oddělit řízení s EPSILONEM (narovnání) od řízení s obstruujícími soutěžiteli podle § 22b odst. 6?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22b odst. 1 (kritéria výměry pokuty), odst. 3 (výměra pokuty právnímu nástupci — přechod výnosů a kontinuita činnosti), odst. 4 (výlučná příslušnost Úřadu), odst. 5 a 6 (společné řízení a možnost samostatného projednání s absorpcí trestů).
+- *Související ustanovení téhož zákona:* § 22a (sankce právnické osoby); § 22ba, § 22bb (leniency, narovnání — důvod pro oddělené projednání); § 23 odst. 4 písm. a) (přerušení promlčení zahájením řízení — vazba na okamžik dle odst. 5); § 21–21f (procesní pravomoci Úřadu).
+- *Související předpisy:* zákon č. 250/2016 Sb. (§ 20, 21 — přiměřeně na podnikající fyzickou osobu dle odst. 2), s výjimkami; zákon č. 500/2004 Sb., správní řád (subsidiárně); zákon č. 125/2008 Sb., o přeměnách obchodních společností (právní nástupnictví); čl. 101 SFEU a nařízení č. 1/2003 (unijní rámec doktríny hospodářské kontinuity).
+- *Judikatura:* doktrína hospodářské kontinuity (economic continuity) — nosné závěry SDEU ve věcech Aalborg Portland a navazujících (C-204/00 P aj.), podle nichž nelze odpovědnosti za kartel uniknout pouhou právní přeměnou, přešel-li na nástupce hospodářský substrát a výnosy; k absorpční zásadě při souběhu ustálená praxe NSS.
+
+**4. Subsumpce.** DELTA je právním nástupcem GAMA, na nějž přešel závod, zákazníci, výnosy z kartelu a který pokračuje v téže činnosti → naplněny obě hlediska § 22b odst. 3 (rozsah přechodu výnosů + kontinuita činnosti); pokutu lze vyměřit nástupci a přihlédnout k těmto okolnostem. Řízení proti pěti soutěžitelům je společné, zahájené doručením oznámení prvnímu z nich (odst. 5). EPSILON usiluje o narovnání, ostatní obstruují → jsou splněny podmínky pro samostatné projednání podle odst. 6, pokud Úřad při ukládání trestů zohlední tresty z oddělených řízení (absorpce).
+
+**5. Řešení.** Úřad vyměří pokutu nástupci DELTA; v odůvodnění výslovně přihlédne k rozsahu přešlých výnosů z kartelu a ke kontinuitě činnosti (odst. 3) — jinak hrozí zrušení rozhodnutí pro nedostatek odůvodnění. Současně může vyčlenit věc EPSILONA do samostatného řízení (narovnání, § 22bb) a zbývající soutěžitele projednat společně, přičemž musí dbát absorpční zásady (odst. 6). Výlučně příslušným orgánem je Úřad (odst. 4) — obecné přestupkové orgány ani soudy věc neprojednávají. Riziko: při samostatném projednání nesmí dojít k nepřípustnému zdvojení sankce; Úřad musí transparentně doložit zohlednění trestů z paralelních řízení.
+
+**6. Varianty.** (a) Kdyby na DELTU přešel jen prázdný právní plášť bez výnosů a bez pokračování v činnosti, význam přitěžujících hledisek odst. 3 by klesl a výměra by se musela více opřít o obecná kritéria odst. 1. (b) Kdyby Úřad projednal věci samostatně, ale NEPŘIHLÉDL k trestům uloženým v jiných řízeních, porušil by odst. 6 a absorpční zásadu — rozhodnutí by bylo nezákonné pro nepřiměřenost úhrnné sankce.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Nástupce DELTA nespáchal přestupek, sankce má stíhat jen pachatele GAMA, která zanikla."* Neutralizace: doktrína hospodářské kontinuity (Aalborg Portland) umožňuje přičíst odpovědnost nástupci, na nějž přešel hospodářský substrát a výnosy; jinak by stačilo uniknout pokutě fúzí. § 22b odst. 3 to výslovně předpokládá.
+- *Protiargument 2: „Oddělením řízení s EPSILONEM jsme byli znevýhodněni — narovnání mu dalo výhodu, kterou my nemáme."* Neutralizace: odst. 6 oddělené projednání výslovně dovoluje, podmínkou je absorpční zohlednění trestů; rozdílné zacházení odráží rozdílnou procesní spolupráci (narovnání vs. obstrukce), nikoli libovůli.
+- *Slabá místa:* nutnost přesně doložit přechod výnosů z kartelu na nástupce (účetní stopa) a kontinuitu činnosti; při samostatném projednání nese Úřad důkazní břemeno transparentnosti absorpce — chybějící odůvodnění zohlednění trestů je častou vadou.
+
+#### H. Praktický závěr
+
+§ 22b sdružuje společná pravidla: kritéria výměry pokuty (odst. 1, demonstrativní výčet aspektů závažnosti a chování v řízení), přiměřené použití zákona č. 250/2016 Sb. na podnikající fyzickou osobu (odst. 2, s výjimkami vč. promlčení, jež řeší § 23), odpovědnost právního nástupce dle hospodářské kontinuity (odst. 3), výlučnou příslušnost Úřadu (odst. 4) a procesní pravidla společného/samostatného řízení s absorpcí trestů (odst. 5, 6). Odst. 7–10 obsahují specifika (vzdělání úředních osob, vyloučení řady ustanovení PŘ, jednota skutku u pokračujícího přestupku, nevyrozumění dotčené osoby o odložení).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odůvodnit výměru pokuty kritérii odst. 1 (závažnost, způsob, následky, okolnosti, chování v řízení, náprava).
+- [ ] U právního nástupce přihlédnout k přechodu výnosů z přestupku a ke kontinuitě činnosti (odst. 3).
+- [ ] Ověřit, že věc projednává Úřad (výlučná příslušnost dle odst. 4), nikoli obecný přestupkový orgán.
+- [ ] Při samostatném projednání (odst. 6) transparentně zohlednit tresty z paralelních řízení (absorpce).
+- [ ] U podnikající fyzické osoby aplikovat § 20, 21 zák. č. 250/2016 Sb. s výjimkami dle odst. 2 (promlčení dle § 23 OHS).
+
+**Typicky rozhodné důkazy / podklady:** projekt přeměny a doklady o přechodu jmění, účetní podklady o výnosech z přestupku přešlých na nástupce, doklad o kontinuitě činnosti, procesní spisy společného/samostatných řízení, podklady k chování účastníka v řízení a k nápravě.
 
 ---
 
@@ -452,6 +600,43 @@ Sdělení výhrad je procesním dokumentem, jímž Úřad sděluje obviněnému,
 
 Zákon odkazuje na prováděcí právní předpis pro specifikaci rozsahu identifikačních údajů a popisu skutku. Vedle obecných náležitostí správního řádu musí každá žádost (řádná, o zachování pořadí, souhrnná) obsahovat identifikaci soutěžitelů a popis skutku. Prováděcím předpisem je vyhláška vydaná Úřadem na základě zákonného zmocnění.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Tři výrobci stavebních materiálů (ZETA, ÉTA, THÉTA) provozovali tajný cenový kartel po dobu pěti let prostřednictvím utajovaných schůzek. Vedení ZETA se po interním auditu rozhodne kartel „zradit": jako první ze všech tří předloží Úřadu zápisy ze schůzek, e-maily a popis fungování kartelu — informace, které Úřad dosud neměl a které odůvodňují cílené šetření na místě u ÉTA a THÉTA. ZETA přizná účast, prohlásí, že nečinila nátlak na ostatní, a zaváže se k plné spolupráci. Týden po šetření podá ÉTA žádost o snížení pokuty s dalšími důkazy. Důkazy: leniency žádost ZETA a její přílohy (marker/žádost o zachování pořadí), časové razítko podání, protokoly z následného šetření, žádost ÉTA s posouzením přidané důkazní hodnoty.
+
+**2. Právní otázka.** Splnila ZETA podmínky pro úplné upuštění od pokuty podle § 22ba odst. 1 písm. a) a odst. 2, a jaký nárok má ÉTA jako druhý žadatel podle písm. b)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22ba odst. 1 písm. a) (úplné upuštění — „první dveřmi") a písm. b) (snížení až o 50 %), odst. 2 (podmínky způsobilosti žadatele), odst. 3–5 (zachování pořadí, souhrnná žádost), odst. 6 (lhůty), odst. 7 (zpětvzetí).
+- *Související ustanovení téhož zákona:* § 22 odst. 1 písm. b) a § 22a odst. 1 písm. b) (skutky, na něž se leniency vztahuje); § 3 odst. 1 (zakázaná dohoda); § 22a odst. 6 (zákaz plnění VZ — u leniency dle písm. a) nebo b) jej nelze/lze omezeně uložit); § 22bb (narovnání — kumulace se snížením); sdělení výhrad (vazba na lhůty).
+- *Související předpisy:* směrnice 2019/1 (ECN+), čl. 17–24 (harmonizace leniency a markeru, souhrnná žádost) a čl. 19 (ochrana zpětvzetí); Oznámení Komise o imunitě před pokutami a snížení pokut v kartelových věcech (2006/C 298/11); prováděcí vyhláška ÚOHS k náležitostem žádosti (odst. 8).
+- *Judikatura:* k podmínce „prvního" žadatele a k povaze leniency jako závodu k orgánu dohledu přiměřeně rozhodovací praxe Komise a SDEU; k tomu, že imunitu má jen první a další žadatelé jen snížení, ustálená aplikační praxe ÚOHS.
+
+**4. Subsumpce.** Kartel je utajovaná dohoda narušující soutěž → spadá pod § 22a odst. 1 písm. b), na který leniency dopadá. ZETA: (i) první ze všech soutěžitelů, (ii) předložila informace, které Úřad dosud neměl a které odůvodňují cílené šetření → kvalita splněna, (iii) přiznala účast, (iv) nečinila nátlak, (v) poskytne všechny podklady → kumulativní podmínky odst. 1 písm. a) naplněny; současně splňuje odst. 2 (ukončení účasti, aktivní pomoc, zachování důkazů, mlčenlivost, informace o jiných žádostech) → upuštění od pokuty. ÉTA: není první → nemá nárok na imunitu; předložila-li důkazy s „významnou přidanou důkazní hodnotou" a splní odst. 1 písm. a) body 2 a 4 → nárok na snížení pokuty až o 50 % dle písm. b), s přihlédnutím k pořadí, době a kvalitě.
+
+**5. Řešení.** Úřad u ZETA uzná vinu, ale upustí od uložení pokuty (odst. 1 písm. a)); u ÉTA pokutu sníží v rozmezí do 50 % podle pořadí (druhá), doby podání a míry posílení důkazní situace. Procesně je vhodné, aby ZETA využila žádost o zachování pořadí (marker, odst. 3), pokud nemá ihned všechny podklady — pak se podklady považují za podané k okamžiku markeru. Pozor na mlčenlivost (odst. 2 písm. d)): prozrazení žádosti konkurentům před sdělením výhrad by způsobilo ztrátu leniency. ZETA navíc nelze uložit zákaz plnění VZ (§ 22a odst. 6 in fine). Riziko pro žadatele: nesplní-li byť jen jednu podmínku odst. 2 (např. nedokončí aktivní spolupráci), o imunitu přijde.
+
+**6. Varianty.** (a) Kdyby ZETA na ostatní soutěžitele činila nátlak k účasti na kartelu, nesplnila by odst. 1 písm. a) bod 3 a NEMĚLA by nárok na úplné upuštění — pouze na snížení dle písm. b). (b) Kdyby žádost o shovívavost vzala zpět do 15 dnů od uplynutí lhůty (odst. 7), k žádosti i přiloženým podkladům by se v řízení nepřihlíželo — přiznání by nebylo možné použít jako důkaz; tím je chráněna důvěryhodnost programu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „ÉTA dodala silnější důkazy než ZETA, proto by imunitu měla dostat ÉTA."* Neutralizace: imunita (úplné upuštění) náleží výlučně PRVNÍMU žadateli, který splní podmínky — kvalita důkazů druhého žadatele zakládá jen nárok na snížení dle písm. b), nikoli na imunitu. Pořadí je rozhodující konstrukční prvek programu.
+- *Protiargument 2: „Leniency výpověď je vynucené sebeobvinění, nelze ji použít."* Neutralizace: leniency je dobrovolný procesní nástroj; žadatel sám volí spolupráci výměnou za imunitu/snížení. Ochranu poskytuje odst. 7 (zpětvzetí) — kdo žádost vezme zpět, k jeho přiznání se nepřihlíží. Dobrovolnost vylučuje námitku nátlaku.
+- *Slabá místa:* prokázání, že informace ZETA byly Úřadu skutečně dosud neznámé a odůvodňovaly cílené šetření (nikoli duplicitní); posouzení „významné přidané důkazní hodnoty" u druhého žadatele je hodnotící a může být sporné; přísnost podmínek odst. 2 (zejm. mlčenlivost a nepřetržitá spolupráce) činí postavení žadatele křehkým.
+
+#### H. Praktický závěr
+
+§ 22ba je leniency program — nejúčinnější nástroj odhalování tajných kartelů (§ 22/§ 22a odst. 1 písm. b)). První žadatel, který splní kumulativní podmínky odst. 1 písm. a) a odst. 2, dosáhne úplného upuštění od pokuty; další žadatelé jen snížení až o 50 % (písm. b)). Klíčové instituty: zachování pořadí (marker, odst. 3), souhrnná žádost při přeshraničních věcech (odst. 4–5), přísné lhůty navázané na sdělení výhrad (odst. 6) a ochrana zpětvzetí (odst. 7). Leniency dle písm. a)/b) vylučuje, resp. omezuje zákaz plnění VZ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je žadatel PRVNÍ ze všech soutěžitelů? Jen tehdy nárok na úplné upuštění (písm. a)); jinak jen snížení (písm. b)).
+- [ ] Jsou splněny kumulativní podmínky odst. 1 písm. a) (novost, kvalita, přiznání, absence nátlaku, úplnost) a odst. 2 (ukončení účasti, spolupráce, zachování důkazů, mlčenlivost, informace o jiných žádostech)?
+- [ ] Využít žádost o zachování pořadí (marker, odst. 3), nejsou-li ihned všechny podklady.
+- [ ] Hlídat lhůty (odst. 6): upuštění do sdělení výhrad, snížení do 15 dnů po něm.
+- [ ] Zvážit zpětvzetí (odst. 7) a jeho důsledek — k žádosti a podkladům se nepřihlíží.
+
+**Typicky rozhodné důkazy / podklady:** leniency žádost a její přílohy (zápisy, e-maily, popis kartelu), žádost/marker o zachování pořadí s časovým razítkem, doklady o pořadí žadatelů, posouzení přidané důkazní hodnoty, protokoly z následného šetření, doklad o splnění podmínek způsobilosti (ukončení účasti, mlčenlivost).
+
 ---
 
 ### § 22bb — Narovnání
@@ -511,6 +696,43 @@ Při úspěšném narovnání Úřad sníží pokutu o **10 až 20 %** vypočten
 
 Narovnání a leniency se vzájemně nevylučují — soutěžitel, který získal snížení pokuty na základě leniency (§ 22ba odst. 1 písm. b)), může ještě dodatečně dosáhnout snížení i z titulu narovnání, pokud narovnání zahájí Úřad. Celková kumulace snížení je omezena maximálními sazbami v každém z obou institutů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Úřad vede rozsáhlé a skutkově složité řízení o zneužití dominantního postavení proti společnosti IÓTA, a.s. Dokazování je náročné, řízení trvá již dlouho. Po vydání sdělení výhrad, v němž Úřad informuje o zamýšlené výši pokuty, sdělí IÓTA ve stanovené lhůtě písemně, že vstupuje do narovnání, a do 15 dnů podá žádost o snížení pokuty narovnáním, v níž přizná narušení soutěže popsané ve sdělení výhrad. Úřad vede s IÓTA samostatné ústní jednání. Důkazy/podklady: sdělení výhrad s vyčíslením pokuty, písemné sdělení o vstupu do narovnání (a doklad o dodržení lhůty), žádost o snížení pokuty s přiznáním, protokol o samostatném ústním jednání, podklady o procesních úsporách (složitost, délka řízení).
+
+**2. Právní otázka.** Splnila IÓTA podmínky pro snížení pokuty narovnáním podle § 22bb a v jakém rozmezí Úřad pokutu sníží; jak se narovnání liší od leniency a lze je kumulovat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22bb odst. 1 (zahájení narovnání Úřadem, lhůta pro vstup), odst. 2 (žádost o snížení s přiznáním, 15denní lhůta), odst. 3 (samostatná ústní jednání), odst. 4 (ukončení narovnání), odst. 5 (snížení o 10–20 % dle míry procesních úspor).
+- *Související ustanovení téhož zákona:* § 11 odst. 1 (zneužití dominance — hmotněprávní základ); § 22a odst. 3 (pokuta, z níž se snížení počítá); § 22a odst. 6 (zákaz plnění VZ — u narovnání max. 1 rok); § 22ba (leniency — odlišení a možná kumulace); sdělení výhrad (výchozí bod lhůt a vyčíslení pokuty).
+- *Související předpisy:* směrnice 2019/1 (ECN+), čl. 17 (harmonizace settlement); Sdělení Komise o vedení řízení o narovnání (2008/C 167/01); zákon č. 500/2004 Sb., správní řád (subsidiárně k procesnímu postupu).
+- *Judikatura:* k povaze narovnání jako nástroje procesní ekonomie a k tomu, že přiznání v narovnání nahrazuje plné dokazování, přiměřeně rozhodovací praxe Komise (settlement v kartelových věcech) a aplikační praxe ÚOHS; k mezím soudního přezkumu výše snížení obecné principy přezkumu správního uvážení (NSS).
+
+**4. Subsumpce.** Řízení je složité a dlouhé → Úřad oprávněně očekává procesní úspory a může zahájit narovnání (odst. 1). IÓTA ve lhůtě písemně sdělila vstup do narovnání → podmínka odst. 1 splněna. Do 15 dnů od sdělení výhrad podala žádost s přiznáním narušení soutěže popsaného ve sdělení výhrad → naplněn odst. 2. Ústní jednání proběhlo s IÓTA samostatně → odst. 3 dodržen. Tím jsou splněny předpoklady pro snížení pokuty o 10–20 % (odst. 5), jehož konkrétní míra závisí na dosažených procesních úsporách (složitost, délka, spolupráce).
+
+**5. Řešení.** Úřad uzná IÓTA vinnou a sníží pokutu vyčíslenou ve sdělení výhrad o 10 až 20 %; vyšší konce pásma použije při významnějších procesních úsporách (zde složité a dlouhé řízení → spíše horní hranice). Pozor na odlišení od leniency: narovnání zahajuje Úřad (nikoli žadatel), týká se jakéhokoli narušení soutěže (nejen tajných kartelů) a snížení je jen 10–20 %. Narovnání a leniency se nevylučují — soutěžitel, jemuž byla snížena pokuta dle § 22ba odst. 1 písm. b), může ještě dosáhnout snížení z titulu narovnání, zahájí-li je Úřad; celková kumulace je omezena maximy obou institutů. Riziko: nepodá-li IÓTA žádost dle odst. 2, narovnání s ní automaticky končí (odst. 4 in fine) a Úřad rozhodne standardně.
+
+**6. Varianty.** (a) Kdyby Úřad usoudil, že procesních úspor nelze dosáhnout (např. IÓTA zpochybuje o skutkovém stavu a přiznání je polovičaté), může narovnání kdykoli ukončit zcela nebo jen vůči IÓTA podle odst. 4. (b) Kdyby šlo o kartel v souvislosti s veřejnou zakázkou a IÓTA by získala snížení narovnáním, Úřad by jí mohl uložit zákaz plnění VZ jen na max. 1 rok (§ 22a odst. 6 věta druhá), nikoli na 3 roky.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Na narovnání máme nárok, Úřad je povinen je s námi uzavřít."* Neutralizace: narovnání zahajuje Úřad z vlastní iniciativy a může je kdykoli ukončit (odst. 1 a 4); jde o dispozitivní nástroj procesní ekonomie, nikoli o subjektivní právo účastníka. Účastník má jen možnost vstoupit, splní-li podmínky.
+- *Protiargument 2: „Snížení jen o 10–20 % je málo, žádáme více jako u leniency."* Neutralizace: narovnání a leniency mají odlišný účel a sazby; settlement odměňuje procesní úsporu (10–20 %), nikoli odhalení kartelu (až 100 %/50 %). Pro vyšší úsporu lze instituty kumulovat, je-li splněn každý zvlášť.
+- *Slabá místa:* míra snížení v pásmu 10–20 % je správním uvážením — účastník nese riziko, že Úřad zvolí dolní hranici; přiznání v narovnání je nevratné v tom smyslu, že tvoří základ rozhodnutí, končí-li narovnání úspěšně; dodržení 15denní lhůty (odst. 2) je nezbytné, pozdější žádost jen v případech hodných zvláštního zřetele.
+
+#### H. Praktický závěr
+
+§ 22bb upravuje narovnání (settlement) jako nástroj procesní ekonomie: přiznání narušení soutěže výměnou za snížení pokuty o 10–20 %. Na rozdíl od leniency je zahajuje Úřad, vztahuje se na jakékoli narušení soutěže a snížení je nižší. Klíčové kroky: písemný vstup ve lhůtě (odst. 1), žádost s přiznáním do 15 dnů od sdělení výhrad (odst. 2), samostatné ústní jednání (odst. 3). Úřad může narovnání kdykoli ukončit (odst. 4). Narovnání lze kumulovat s leniency a omezuje zákaz plnění VZ na max. 1 rok.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zahájil narovnání Úřad a lze očekávat procesní úspory (složitost, délka řízení)?
+- [ ] Sdělil účastník vstup do narovnání ve stanovené lhůtě (odst. 1)?
+- [ ] Podal žádost o snížení s přiznáním narušení dle sdělení výhrad do 15 dnů (odst. 2)?
+- [ ] Proběhlo ústní jednání s každým účastníkem samostatně (odst. 3)?
+- [ ] Zohlednit při snížení (10–20 %) míru procesních úspor a zvážit kumulaci s leniency; u VZ pamatovat na limit zákazu 1 rok.
+
+**Typicky rozhodné důkazy / podklady:** sdělení výhrad s vyčíslením pokuty, písemné sdělení o vstupu do narovnání s dokladem o dodržení lhůty, žádost o snížení pokuty s přiznáním, protokol o samostatném ústním jednání, podklady dokládající procesní úspory (složitost a délka řízení, spolupráce účastníka).
+
 ---
 
 ### § 22c — Pořádková pokuta
@@ -568,6 +790,43 @@ Celkový strop pro opakované pořádkové pokuty:
 
 I zde platí výjimka: „Sazba pokuty se nestanoví z obratu soutěžitele, pokud by tak nebylo dosaženo účelu uložení pokuty."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V probíhajícím řízení o kartelu Úřad písemně vyzve společnost KAPPA, s.r.o., aby do 15 dnů předložila konkrétní obchodní záznamy (smlouvy, ceníky, e-mailovou komunikaci). KAPPA lhůtu nechá marně uplynout a záznamy nepředloží ani po urgenci; její roční čistý obrat činí 365 mil. Kč (tj. průměrný denní čistý obrat 1 mil. Kč). Úřad jí proto uloží pořádkovou pokutu za každý den prodlení a hrozí jejím opakováním. Důkazy/podklady: písemná výzva s vymezením záznamů a lhůty, doručenka, doklad o marném uplynutí lhůty, účetní závěrka pro výpočet průměrného denního obratu, evidence dnů nesplnění.
+
+**2. Právní otázka.** Lze KAPPA uložit pořádkovou pokutu podle § 22c odst. 1 písm. a) za každý den nesplnění a v jaké maximální výši, a jaký je celkový strop při opakovaném ukládání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22c odst. 1 písm. a) (neposkytnutí obchodních záznamů na písemnou výzvu ve lhůtě), odst. 3 (výše: 300 000 Kč nebo 10 % průměrného denního čistého obratu za každý den), odst. 4 (opakované ukládání, celkový strop 10 000 000 Kč nebo 10 % čistého obratu).
+- *Související ustanovení téhož zákona:* § 21e odst. 1 (povinnost poskytnout obchodní záznamy — hmotněprávní jádro); § 21f odst. 3 (strpění šetření — odst. 2 § 22c jako alternativa k přestupkové pokutě); § 22/§ 22a odst. 1 písm. g) a odst. 2 (přestupková alternativa k procesnímu donucení); § 22d (donucovací pokuta ve fázi exekuce — paralelní nástroj).
+- *Související předpisy:* zákon č. 500/2004 Sb., správní řád (pořádková pokuta jako procesní institut, subsidiárně); přiměřeně zákon č. 250/2016 Sb. s výjimkami dle § 22b. Pořádková pokuta NENÍ trestem za přestupek, nýbrž procesním donucovacím prostředkem.
+- *Judikatura:* k povaze pořádkové pokuty jako prostředku k vynucení součinnosti (nikoli sankce za delikt) a k požadavku řádné výzvy a přiměřenosti opakovaných pokut přiměřeně ustálená praxe NSS ke správním pořádkovým pokutám; k odlišení pořádkové pokuty od trestu za přestupek (zákaz dvojího postihu se neuplatní, jde o různé instituty).
+
+**4. Subsumpce.** Úřad vydal písemnou výzvu s vymezením záznamů a lhůty (§ 21e odst. 1) → formální podmínka splněna. KAPPA záznamy ve lhůtě neposkytla → naplněn znak odst. 1 písm. a) („neposkytne na písemnou výzvu ve stanovené lhůtě obchodní záznamy"). Za každý den nesplnění lze uložit vyšší z hodnot: 300 000 Kč, nebo 10 % průměrného denního čistého obratu (zde 10 % z 1 mil. Kč = 100 000 Kč) → uplatní se absolutní strop 300 000 Kč/den, neboť je vyšší. Pokutu lze uložit opakovaně až do celkového stropu 10 000 000 Kč nebo 10 % ročního obratu (zde 10 % z 365 mil. = 36,5 mil. Kč → uplatní se vyšší obrátový strop 36,5 mil. Kč).
+
+**5. Řešení.** Úřad uloží pořádkovou pokutu za každý den prodlení (max. 300 000 Kč/den jako vyšší hodnota); při pokračujícím odmítání ji opakuje až do celkového stropu (vyšší z 10 mil. Kč nebo 10 % obratu). Pořádková pokuta je procesní nástroj — neprokazuje se narušení hmotněprávních povinností, postačí marné uplynutí lhůty po řádné výzvě. Úřad může alternativně (u porušení § 21f odst. 3) volit mezi přestupkovou pokutou (jednorázová, § 22/§ 22a písm. g)) a pořádkovou pokutou (průběžná, § 22c odst. 2) — pro trvalé odmítání součinnosti je průběžná pořádková pokuta účinnější. Riziko: výzva musí být dostatečně určitá (jaké záznamy, jaká lhůta) a řádně doručená — vadná výzva oslabuje zákonnost pořádkové pokuty.
+
+**6. Varianty.** (a) Kdyby se KAPPA bez náležité omluvy nedostavila na předvolání, šlo by o skutkovou podstatu odst. 1 písm. b) (nikoli a)), avšak se stejnými sazbami. (b) Kdyby KAPPA porušila povinnost strpět šetření na místě podle § 21f odst. 3 a vyžadovalo-li by to zajištění průběhu a účelu řízení, Úřad by mohl uložit pořádkovou pokutu podle odst. 2 — namísto, nebo vedle úvahy o přestupkové pokutě dle § 22a odst. 1 písm. g).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Pořádková pokuta za každý den a navíc přestupková pokuta je nepřípustný dvojí trest."* Neutralizace: pořádková pokuta není trestem za přestupek, nýbrž procesním donucovacím prostředkem k vynucení součinnosti; nejde tedy o ne bis in idem ve vztahu k případné přestupkové sankci za hmotněprávní delikt. Jsou to různé instituty s odlišným účelem.
+- *Protiargument 2: „Záznamy jsme nemohli předložit, protože je nemáme / obsahují obchodní tajemství."* Neutralizace: povinnost dle § 21e odst. 1 se vztahuje na obchodní záznamy, jež soutěžitel má; obchodní tajemství není důvodem k neposkytnutí vůči Úřadu (ochranu poskytuje mlčenlivost Úřadu). Faktická nemožnost předložit musí být doložena, jinak je neposkytnutí důvodem pořádkové pokuty.
+- *Slabá místa:* zákonnost závisí na určitosti a doručení výzvy a na řádné evidenci dnů nesplnění (výpočet denní pokuty); při obrátové bázi nutno správně určit poslední ukončené účetní období; výjimka odst. 3 in fine (neuplatnit obrátovou bázi, nebylo-li by dosaženo účelu) vyžaduje odůvodnění.
+
+#### H. Praktický závěr
+
+§ 22c upravuje pořádkovou pokutu jako procesní donucovací prostředek (nikoli sankci za narušení soutěže) k vynucení součinnosti: za neposkytnutí obchodních záznamů na výzvu (odst. 1 písm. a)), nedostavení se na předvolání (písm. b)) nebo porušení povinnosti strpět šetření (odst. 2). Ukládá se za každý den nesplnění ve výši max(300 000 Kč, 10 % průměrného denního obratu) a lze ji opakovat až do celkového stropu max(10 000 000 Kč, 10 % ročního obratu). Předpokladem je řádná a určitá výzva, resp. předvolání.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje řádná, určitá a doručená písemná výzva (záznamy + lhůta) nebo předvolání?
+- [ ] Uplynula lhůta marně / nedostavil se účastník bez náležité omluvy / porušil povinnost strpět šetření (odst. 2)?
+- [ ] Vypočítat denní pokutu jako max(300 000 Kč, 10 % průměrného denního čistého obratu) a evidovat dny nesplnění.
+- [ ] Při opakování hlídat celkový strop max(10 000 000 Kč, 10 % ročního obratu); zvážit výjimku z obrátové báze.
+- [ ] Odlišit pořádkovou pokutu od přestupkové sankce (různé instituty, nejde o dvojí trest).
+
+**Typicky rozhodné důkazy / podklady:** písemná výzva/předvolání s vymezením povinnosti a lhůty, doručenka, doklad o marném uplynutí lhůty / o nedostavení, účetní závěrka (výpočet průměrného denního i ročního obratu), evidence dnů nesplnění povinnosti.
+
 ---
 
 ### § 22d — Exekuce na nepeněžitá plnění ukládáním donucovacích pokut
@@ -598,6 +857,43 @@ Sazby donucovacích pokut jsou totožné se sazbami pořádkových pokut (§ 22c
 | Celkový relativní strop | 10 % čistého obratu za poslední ukončené účetní období |
 
 Donucovací pokutu lze uložit opakovaně v rámci celkového stropu. I zde platí výjimka z obrátové báze, je-li uložení z obratu nevhodné pro dosažení účelu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Úřad pravomocným rozhodnutím uložil společnosti LAMBDA, a.s. (dominantnímu hráči na trhu) nepeněžité opatření k nápravě podle § 20 odst. 4 — povinnost ukončit do stanoveného data výhradní smlouvy s odběrateli, jimiž uzavírala trh. Rozhodnutí nabylo právní moci, ale LAMBDA opatření dobrovolně nesplní a výhradní smlouvy ponechá v platnosti. Roční čistý obrat LAMBDA činí 730 mil. Kč (průměrný denní čistý obrat 2 mil. Kč). Úřad přistoupí k exekuci nepeněžitého plnění ukládáním donucovacích pokut. Důkazy/podklady: pravomocné rozhodnutí s nepeněžitou povinností a doložka právní moci, doklad o nesplnění (trvající výhradní smlouvy), účetní závěrka pro výpočet denního obratu, evidence dnů prodlení.
+
+**2. Právní otázka.** Lze LAMBDA v exekuční fázi uložit donucovací pokutu podle § 22d za každý den nesplnění nepeněžité povinnosti, v jaké výši a do jakého celkového stropu, a jak se liší od pořádkové pokuty (§ 22c)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22d odst. 1 (donucovací pokuta do 300 000 Kč nebo 10 % průměrného denního čistého obratu za každý den nesplnění při exekuci nepeněžitého plnění), odst. 2 (opakované ukládání, celkový strop 10 000 000 Kč nebo 10 % čistého obratu).
+- *Související ustanovení téhož zákona:* § 20 odst. 4 (opatření k nápravě — nepeněžitá povinnost, jež se vykonává); § 11 odst. 1 (zneužití dominance — hmotněprávní pozadí); § 22c (pořádková pokuta — analogický nástroj ve fázi řízení, nikoli exekuce); § 22/§ 22a odst. 1 písm. f) (nesplnění opatření k nápravě jako samostatný přestupek — paralelní odpovědnost).
+- *Související předpisy:* zákon č. 500/2004 Sb., správní řád, část šestá — správní exekuce na nepeněžitá plnění (donucovací pokuty jako exekuční prostředek); přiměřeně zákon č. 250/2016 Sb. s výjimkami dle § 22b. Donucovací pokuta NENÍ trestem za přestupek, nýbrž exekučním donucovacím prostředkem.
+- *Judikatura:* k povaze donucovací (exekuční) pokuty jako prostředku vynucení splnění pravomocně uložené povinnosti (nikoli sankce) přiměřeně praxe NSS ke správní exekuci; k tomu, že vykonatelné rozhodnutí Úřadu musí být prosaditelné i proti vůli povinného, principy efektivního prosazování soutěžního práva (ECN+).
+
+**4. Subsumpce.** LAMBDA má pravomocně uloženou nepeněžitou povinnost (§ 20 odst. 4), kterou nesplnila → jsou splněny předpoklady exekuce na nepeněžité plnění. Za každý den nesplnění lze uložit donucovací pokutu ve vyšší z hodnot: 300 000 Kč, nebo 10 % průměrného denního čistého obratu (zde 10 % z 2 mil. Kč = 200 000 Kč) → uplatní se absolutní strop 300 000 Kč/den (vyšší hodnota). Donucovací pokutu lze uložit opakovaně až do celkového stropu max(10 000 000 Kč, 10 % ročního obratu); zde 10 % ze 730 mil. = 73 mil. Kč → uplatní se vyšší obrátový strop 73 mil. Kč.
+
+**5. Řešení.** Úřad ve fázi exekuce ukládá LAMBDA donucovací pokutu za každý den nesplnění (max. 300 000 Kč/den) a opakuje ji až do celkového stropu (vyšší z 10 mil. Kč nebo 10 % obratu), dokud LAMBDA výhradní smlouvy neukončí. Donucovací pokuta je exekučním prostředkem, nikoli trestem — neslouží k potrestání za minulé narušení, nýbrž k vynucení splnění pravomocně uložené povinnosti. Pozor na odlišení od § 22c: pořádková pokuta působí v průběhu řízení (vynucení procesní součinnosti), donucovací pokuta ve fázi výkonu pravomocného rozhodnutí. Vedle donucovací pokuty může nesplnění opatření k nápravě zakládat samostatný přestupek dle § 22a odst. 1 písm. f) (až 10 mil. Kč / 10 % obratu) — jde o souběh různých nástrojů. Riziko: nutná vykonatelnost (právní moc a uplynutí lhůty ke splnění) a řádná evidence dnů prodlení.
+
+**6. Varianty.** (a) Kdyby povinnost byla peněžitá (zaplatit pokutu), § 22d by se nepoužil — uplatnila by se exekuce na peněžité plnění podle správního řádu / daňového řádu, nikoli donucovací pokuta. (b) Kdyby LAMBDA opatření splnila částečně (ukončila část smluv), Úřad by donucovací pokutu ukládal jen za přetrvávající nesplněnou část povinnosti, případně až do úplného splnění.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Za nesplnění opatření už jsme dostali pokutu jako za přestupek (§ 22a písm. f)), donucovací pokuta je nepřípustný dvojí postih."* Neutralizace: donucovací pokuta není trestem za přestupek, nýbrž exekučním prostředkem k vynucení splnění do budoucna; nejde o ne bis in idem ve vztahu k přestupkové sankci za minulé nesplnění. Účely se liší (vynucení vs. potrestání).
+- *Protiargument 2: „Opatření nelze splnit / je nepřiměřené, proto nás nelze nutit donucovací pokutou."* Neutralizace: vykonává se pravomocné a vykonatelné rozhodnutí; námitky proti jeho obsahu měly být uplatněny v nalézacím řízení a jeho přezkumu, nikoli ve fázi exekuce. Objektivní nemožnost plnění musí být doložena a řešena v exekučním řízení.
+- *Slabá místa:* nezbytná vykonatelnost (právní moc + marné uplynutí lhůty ke splnění); přesná identifikace nesplněné nepeněžité povinnosti a evidence dnů prodlení; správné určení obratové báze a případné uplatnění výjimky odst. 1 in fine (neuplatnit obrátovou bázi, nebylo-li by dosaženo účelu).
+
+#### H. Praktický závěr
+
+§ 22d upravuje donucovací (exekuční) pokutu jako prostředek správní exekuce na nepeněžitá plnění — vynucení splnění pravomocně uložené nepeněžité povinnosti (typicky opatření k nápravě dle § 20 odst. 4). Sazby jsou shodné s pořádkovou pokutou: za každý den nesplnění max(300 000 Kč, 10 % průměrného denního obratu), celkový strop max(10 000 000 Kč, 10 % ročního obratu). Na rozdíl od § 22c působí ve fázi výkonu rozhodnutí, nikoli v průběhu řízení. Není trestem za přestupek; nesplnění opatření může souběžně zakládat přestupek dle § 22a odst. 1 písm. f).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o nepeněžité plnění uložené pravomocným a vykonatelným rozhodnutím (§ 20 odst. 4)?
+- [ ] Uplynula lhůta ke splnění marně a povinnost trvá (evidence dnů prodlení)?
+- [ ] Vypočítat denní donucovací pokutu jako max(300 000 Kč, 10 % průměrného denního obratu).
+- [ ] Při opakování hlídat celkový strop max(10 000 000 Kč, 10 % ročního obratu); zvážit výjimku z obrátové báze.
+- [ ] Odlišit donucovací pokutu (exekuce, § 22d) od pořádkové pokuty (řízení, § 22c) a od přestupku dle § 22a písm. f).
+
+**Typicky rozhodné důkazy / podklady:** pravomocné a vykonatelné rozhodnutí s nepeněžitou povinností a doložka právní moci, doklad o nesplnění (trvající protiprávní stav), účetní závěrka (výpočet denního i ročního obratu), evidence dnů prodlení, podklady o případném částečném splnění.
 
 ---
 
@@ -679,5 +975,42 @@ Absolutní 14letá lhůta pro obecné přestupky je mimořádně dlouhá a odrá
 #### Srovnání s unijním právem
 
 Čl. 101 SFEU promlčení výslovně neupravuje; nařízení č. 1/2003 neobsahuje promlčecí lhůtu pro vnitrostátní řízení. Komise aplikuje nařízení Rady (EHS) č. 2988/74 a nařízení Rady (ES) č. 1/2003 (čl. 25) s 5letou lhůtou pro výkon pokut a 3letou lhůtou pro procedurální porušení. Česká 10letá lhůta je tedy delší než unijní standard, avšak ECN+ (čl. 29) výslovně nestanoví harmonizovanou délku promlčecí doby — přenechává ji vnitrostátnímu právu s podmínkou účinnosti. Česká úprava je z pohledu ECN+ kompatibilní.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Skupina výrobců (MÍ, NÍ, XÍ) provozovala tajný cenový kartel od ledna 2012; protiprávní jednání bylo ukončeno v prosinci 2016. Úřad obdrží leniency žádost a zahájí řízení o přestupku v září 2024 (oznámení o zahájení doručeno prvnímu z podezřelých). V průběhu řízení MÍ napadne pozdější rozhodnutí žalobou ve správním soudnictví; soudní řízení trvá dva roky. Souběžně se ukáže, že jeden z účastníků v roce 2014 porušil pečeť při šetření (§ 21f odst. 2 písm. e)). Důkazy/podklady: doklady o době trvání a ukončení kartelu, oznámení o zahájení řízení s datem doručení, sdělení výhrad, rozhodnutí o vině, doklady o délce soudního řízení, protokol o porušení pečetě s datem.
+
+**2. Právní otázka.** Není odpovědnost za kartelový přestupek promlčena podle § 23, jak se promlčecí doba přerušuje a staví, a jaká lhůta platí pro porušení pečetě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23 odst. 1 (obecná 10letá promlčecí doba), odst. 2 (zvláštní 3letá doba pro procedurální přestupky), odst. 3 (stavení po dobu soudního a unijního řízení), odst. 4 (přerušení čtyřmi úkony), odst. 5 (nová doba po přerušení), odst. 6 (absolutní lhůty 14 / 6 let).
+- *Související ustanovení téhož zákona:* § 22, § 22a, § 22aa (přestupky, jejichž odpovědnost se promlčuje); § 22b odst. 2 (vyloučení promlčení dle zák. č. 250/2016 Sb. — promlčení řeší výlučně § 23); § 22b odst. 5 (okamžik zahájení společného řízení — vazba na odst. 4 písm. a)); § 21f odst. 2 písm. e), § 21e odst. 1, § 21f odst. 3 a 4 (procedurální přestupky s 3letou lhůtou).
+- *Související předpisy:* zákon č. 250/2016 Sb. (obecná promlčecí doba přestupků — neaplikuje se, lex specialis § 23); soudní řád správní (řízení o žalobě — stavení dle odst. 3); směrnice 2019/1 (ECN+), čl. 29 (stavení po dobu řízení u jiných orgánů ECN); nařízení č. 1/2003, čl. 25 (unijní promlčecí lhůty — srovnání).
+- *Judikatura:* k běhu promlčecí doby od ukončení trvajícího/pokračujícího deliktu a k účinkům přerušení procesními úkony přiměřeně ustálená praxe NSS a SDEU; k tomu, že soutěžitel nemůže těžit z délky soudního řízení (stavení), principy efektivního prosazování dle ECN+.
+
+**4. Subsumpce.** Kartel je trvající/pokračující přestupek → promlčecí doba běží od jeho ukončení (prosinec 2016), nikoli od počátku (2012). Obecná lhůta je 10 let (odst. 1) → uplynula by v prosinci 2026. Oznámení o zahájení řízení (září 2024) přerušilo promlčecí dobu (odst. 4 písm. a)) → počala běžet nová 10letá doba (odst. 5). Doba dvouletého soudního řízení se do promlčecí doby nezapočítává (odst. 3 — stavení). Absolutní prekluzivní lhůta činí 14 let od spáchání (+ doba stavení) (odst. 6). U porušení pečetě (2014) platí zvláštní 3letá lhůta (odst. 2) s absolutním zánikem za 6 let → tento procedurální přestupek je již promlčen (3 i 6 let od roku 2014 uplynulo před zahájením v roce 2024).
+
+**5. Řešení.** Kartelový přestupek není promlčen: běh od ukončení (2016), přerušení zahájením řízení (2024) zakládá novou 10letou dobu, soudní řízení dobu staví (odst. 3) a absolutní 14letá lhůta (+ stavení) dosud neuplynula. Naproti tomu porušení pečetě z roku 2014 je promlčeno — uplynula jak 3letá lhůta (odst. 2), tak absolutní 6letá lhůta; navíc se u něj nepoužije přerušení dle odst. 4 písm. d). Procesně je nutné přesně určit den ukončení trvajícího jednání (počátek běhu) a doložit data přerušujících úkonů (oznámení, sdělení výhrad, rozhodnutí o vině) a dobu stavení. Riziko: chybné určení počátku běhu (záměna zahájení a ukončení kartelu) nebo opomenutí stavení po dobu soudního řízení může vést k nesprávnému závěru o promlčení.
+
+**6. Varianty.** (a) Kdyby Úřad zahájil řízení až po uplynutí absolutní 14leté lhůty (+ stavení) od ukončení kartelu, odpovědnost by zanikla i přes přerušení — absolutní lhůta odst. 6 je nepřekročitelná. (b) Kdyby šlo jen o neposkytnutí obchodních záznamů (§ 21e odst. 1), platila by 3letá lhůta (odst. 2) a absolutní 6letá lhůta (odst. 6) — výrazně kratší než u hmotněprávních deliktů; pozdější zahájení by znamenalo promlčení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Kartel začal v roce 2012, takže 10letá lhůta uplynula v roce 2022 a věc je promlčena."* Neutralizace: u trvajícího/pokračujícího přestupku běží promlčecí doba od ukončení jednání (2016), nikoli od počátku; navíc zahájení řízení (2024) dobu přerušilo a založilo novou lhůtu (odst. 4 písm. a), odst. 5). Věc promlčena není.
+- *Protiargument 2: „Délka soudního řízení by neměla jít k naší tíži — promlčecí doba měla běžet dál."* Neutralizace: odst. 3 výslovně stavuje promlčecí dobu po dobu soudního přezkumu i paralelního řízení před Komisí/orgánem jiného státu; soutěžitel nemůže z průtahů soudu těžit promlčením (čl. 29 ECN+).
+- *Slabá místa:* přesné určení dne ukončení trvajícího jednání (počátek běhu) bývá sporné a důkazně náročné; nutnost doložit data všech přerušujících úkonů a dobu stavení; rozlišení, které skutky podléhají 3leté (odst. 2) a které 10leté (odst. 1) lhůtě, a správné počítání absolutních lhůt (14 / 6 let + stavení).
+
+#### H. Praktický závěr
+
+§ 23 upravuje promlčení odpovědnosti za přestupky OHS: obecná lhůta 10 let (odst. 1), zvláštní 3letá lhůta pro procedurální přestupky (odst. 2), stavení po dobu soudního a unijního řízení (odst. 3), přerušení čtyřmi procesními úkony s během nové lhůty (odst. 4–5) a absolutní prekluzivní lhůty 14 let (obecné) a 6 let (procedurální), prodloužené o dobu stavení (odst. 6). Lhůta běží od ukončení (u trvajících deliktů). Promlčení řeší výlučně § 23 jako lex specialis k zák. č. 250/2016 Sb. (§ 22b odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit den spáchání / u trvajícího přestupku den ukončení jednání (počátek běhu promlčecí doby).
+- [ ] Aplikovat správnou délku: 10 let (odst. 1) vs. 3 roky pro procedurální přestupky (odst. 2).
+- [ ] Identifikovat přerušující úkony (oznámení o zahájení, sdělení výhrad, rozhodnutí o vině, předání věci) → nová lhůta (odst. 4–5).
+- [ ] Odečíst dobu stavení (soudní přezkum, paralelní řízení Komise/jiného státu) — odst. 3.
+- [ ] Ověřit absolutní prekluzivní lhůty: 14 let (obecné) / 6 let (procedurální) + doba stavení (odst. 6).
+
+**Typicky rozhodné důkazy / podklady:** doklady o době trvání a ukončení protiprávního jednání, oznámení o zahájení řízení s datem doručení, sdělení výhrad, rozhodnutí o vině (data přerušujících úkonů), doklady o délce soudního/unijního řízení (stavení), protokoly k procedurálním přestupkům s daty (počátek 3leté lhůty).
 
 ---
