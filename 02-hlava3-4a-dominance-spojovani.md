@@ -127,7 +127,7 @@ Dominance se nezjišťuje mechanicky podle jediného čísla, nýbrž vícekrite
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 5730/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72148A0ACB7BBBC5C12580060030F8DB?openDocument) — 1. 6. 2016, kat. A
+- *NS* [23 Cdo 5730/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72148A0ACB7BBBC5C12580060030F8DB?openDocument) — kat. A, 1. 6. 2016
   > „Za zneužití dominantního postavení soutěžitele nelze považovat, že dominantní soutěžitel neuzavřel požadovaný obchod (prodej sebraného elektroodpadu) s žádným subjektem, ani jednání vlastníka sítě zpětného odběru elektrozařízení, kterým brání v jejím využití jinému soutěžiteli"
 
 #### Struktura zákazu — generální klauzule a demonstrativní výčet (odst. 1)
@@ -1043,7 +1043,7 @@ Povolení spojení lze zrušit ze tří důvodů (nepravdivé/neúplné podklady
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 2170/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D30C9A99B96EAACC12589B000373273?openDocument) — 30. 11. 2021, kat. A
+- *NS* [23 Cdo 2170/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D30C9A99B96EAACC12589B000373273?openDocument) — kat. A, 30. 11. 2021
   > „K projednání a rozhodnutí žaloby, aby se stát zdržel pokračování výběrového řízení pro příděl rádiových kmitočtů, jsou v prvním stupni věcně příslušné soudy ve správním soudnictví"
 
 #### Vznik a účel Hlavy IVa

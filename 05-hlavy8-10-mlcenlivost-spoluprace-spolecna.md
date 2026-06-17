@@ -16,6 +16,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [62 Af 80/2013 - 281](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/536521) — 20. 4. 2016
+  > „V daném případě byly požadované dokumenty převážně získány od osoby zúčastněné na řízení při provádění dozorové (dohledové) činnosti žalovaného podle ZOHS a na tyto informace se vztahuje povinnost mlčenlivosti podle § 24 ZOHS. Byly-li by tedy informace poskytnuty třetí osobou, jak požaduje § 11 odst. 3 ZSPI, byl by žalovaný oprávněn jejich poskytnutí podle citovaného ustanovení odmítnout"
+
 #### Účel a systematické zařazení
 
 § 24 tvoří samostatnou hlavu věnovanou výhradně ochraně mlčenlivosti. Zákonodárce ji zařadil až za procesní a sankční část zákona, přičemž jde o ustanovení průřezové povahy, které dopadá na celou šíři výkonu státního dozoru nad hospodářskou soutěží. Norma plní dvojí funkci: chrání soutěžitele před zneužitím citlivých informací zjištěných při šetření Úřadem a současně zakládá zákonnou povinnost diskrétnosti pro všechny funkčně zapojené osoby bez ohledu na typ jejich právního vztahu k Úřadu.
@@ -1103,6 +1108,11 @@ Nastane-li situace, kdy výtěžek exekuce nepostačí na pokrytí exekučních 
 > *Není-li tímto zákonem stanoveno jinak, postupuje se v řízení u Úřadu podle správního řádu, s výjimkou ustanovení o řešení rozporů mezi správním orgánem, který vede řízení, a správními orgány, které jsou dotčenými orgány, týkajících se řešení otázky, která je předmětem rozhodování, ustanovení o zákazu změny napadeného rozhodnutí v neprospěch odvolatele, ustanovení o lhůtách pro vydání rozhodnutí, dále z ustanovení o zvláštnostech řízení o rozkladu, ustanovení o složení rozkladové komise a o možném způsobu ukončení řízení o rozkladu a dále ustanovení o účastnících řízení a ustanovení o postupu při pochybnostech, zda je někdo účastníkem řízení; ustanovení správního řádu o účastnících řízení podle zvláštního zákona se však použijí.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [29 A 37/2013 - 71](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/546060) — 19. 12. 2014
+  > „Podle § 25a zákona č. 143/2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů, ve znění pozdějších předpisů, platí výjimka, že se v řízení podle tohoto zákona nepostupuje podle ustanovení správního řádu o složení rozkladové komise. Důvodem zavedení této výjimky byla dle důvodové zprávy k zákonu č. 361/2005 Sb. … obava, že by mohlo být problematické garantovat účast většiny takových externích odborníků, kteří by měli dostatečnou znalost předpisů (vnitrostátních i komunitárních) o ochraně hospodářské soutěže"
 
 #### Vztah OHS a správního řádu — model subsidiarity s výjimkami
 

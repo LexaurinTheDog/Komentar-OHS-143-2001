@@ -160,6 +160,11 @@ V praxi § 22 vymezuje přestupky fyzické osoby-soutěžitele se sazbami v abso
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 342/2023 - 60](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722595) — 24. 6. 2024
+  > „Krajský soud správně aproboval postup žalovaného, který při výpočtu pokuty vyšel z hodnot prodejů dosažených jednotlivými soutěžiteli na relevantním trhu v období, v němž docházelo k protisoutěžnímu jednání, zhodnotil okolnosti a závažnost daného jednání jakož i nutnost naplnění represivní a preventivní funkce pokuty"
+
 #### Klíčový sankční paragraf — kdo jsou adresáti
 
 § 22a je prakticky nejvýznamnějším sankčním ustanovením celého OHS. Adresáty jsou **právnické osoby a podnikající fyzické osoby jako soutěžitelé** — tedy veškeré podnikatelské subjekty, na něž zákon typicky dopadá: obchodní korporace, státní podniky, podnikající fyzické osoby (živnostníci s obchodními záznamy). Skutkové podstaty odst. 1 a odst. 2 jsou obsahově totožné s § 22 odst. 1 a 2 — viz výklad tamtéž; liší se nikoli co do skutkového obsahu, nýbrž co do subjektu a sazeb.
@@ -284,6 +289,11 @@ V odst. 1 písm. f) zdroje je použit výraz „úřadem" s malým počáteční
 > *(2) Za přestupek podle odstavce 1 písm. a), e), f) nebo g) se uloží pokuta do 300 000 Kč a za přestupek podle odstavce 1 písm. b), c) nebo d) pokuta do 10 000 000 Kč.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 342/2023 - 60](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722595) — 24. 6. 2024
+  > „Krajský soud správně aproboval postup žalovaného, který při výpočtu pokuty vyšel z hodnot prodejů dosažených jednotlivými soutěžiteli na relevantním trhu v období, v němž docházelo k protisoutěžnímu jednání, zhodnotil okolnosti a závažnost daného jednání jakož i nutnost naplnění represivní a preventivní funkce pokuty"
 
 #### Subjekt — orgán veřejné správy jako pachatel přestupku
 
@@ -752,6 +762,11 @@ Narovnání a leniency se vzájemně nevylučují — soutěžitel, který získ
 > *(4) Pořádkovou pokutu lze uložit i opakovaně. Celková výše opakovaně ukládaných pokut nesmí přesáhnout 10 000 000 Kč nebo 10 % z čistého obratu dosaženého soutěžitelem za poslední ukončené účetní období.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [31 Af 70/2020 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/676360) — 30. 11. 2021
+  > „Lze souhlasit se žalobcem v tom, že účelem pořádkové pokuty není primárně potrestání pachatele, nýbrž zajištění naplnění účelu správního řízení. O primární represivní funkci by však bylo možné hovořit pouze v případě, že by samotné rozhodnutí o uložení pořádkové pokuty bylo vydáno až ex post, tj. po dodatečném poskytnutí informací"
 
 #### Pořádková pokuta — procesní nástroj odlišný od přestupkové sankce
 
