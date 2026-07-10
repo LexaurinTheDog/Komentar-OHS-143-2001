@@ -88,3 +88,6 @@ Rozcestník podle paragrafů. Konsolidace k 3. 4. 2025. Úvod viz [00-uvod.md](0
 - **§ 30** — Změna zákona č. 132/2000 Sb.
 - **§ 31** — Účinnost
 
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
