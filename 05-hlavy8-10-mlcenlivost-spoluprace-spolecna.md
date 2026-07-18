@@ -87,52 +87,6 @@ Povinnost mlčenlivosti dle § 24 je nutné vykládat funkčně a extenzivně: d
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=7695c3cc4ed33726effa generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> Osoba v pracovněprávním nebo jiném vztahu k Úřadu, na jehož základě vykonává pro Úřad činnost, při níž se dozví skutečnost tvořící předmět obchodního tajemství nebo důvěrnou informaci, je povinna o nich zachovat mlčenlivost, a to i po skončení tohoto vztahu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7695c3cc4ed33726effa -->
-
 ## Hlava IX — Mezinárodní spolupráce
 
 ---
@@ -202,54 +156,6 @@ Odst. 2 upravuje specifické procesní postavení **Celního úřadu pro Jihomor
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=c4931e4aedcaa6446462 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24a — Působnost
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> (1) Úřad zajišťuje provádění mezinárodní spolupráce při uplatňování článků 101 a 102 Smlouvy podle tohoto zákona.
->
-> (2) Na základě žádosti o mezinárodní spolupráci předané Úřadem vymáhá nedoplatky na pokutě uložené v žádajícím členském státě Celní úřad pro Jihomoravský kraj, který je správcem placení nedoplatku na pokutě.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c4931e4aedcaa6446462 -->
-
 ### § 24b — Spolupráce mezi orgány a mlčenlivost
 
 > **§ 24b**
@@ -305,54 +211,6 @@ Odst. 2 řeší kolizi mezi povinností mlčenlivosti orgánů Celní správy Č
 **Typicky rozhodné důkazy / podklady:** žádost o mezinárodní spolupráci, doklad o souvislosti údajů s vymáháním, evidence daňové/celní správy, záznam o předání informací mezi Úřadem a celní správou.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=0e7f92f2a7fc4e317ebe generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24b — Spolupráce mezi orgány a mlčenlivost
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> (1) Úřad a orgány Celní správy České republiky navzájem spolupracují a vyměňují si bezodkladně informace potřebné k provádění mezinárodní spolupráce.
->
-> (2) Poskytnutí údajů souvisejících s poskytováním mezinárodní spolupráce orgány Celní správy České republiky Úřadu nebo soutěžnímu orgánu jiného členského státu není porušením povinnosti mlčenlivosti podle [[daňového řádu|daňového řádu]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0e7f92f2a7fc4e317ebe -->
 
 ### § 24c — Žádost o mezinárodní spolupráci
 
@@ -413,56 +271,6 @@ Zákon rozlišuje žádost o **doručení písemnosti** a žádost o **vymáhán
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=02cd6f4dd4e7675a3870 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24c — Žádost o mezinárodní spolupráci
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> (1) Mezinárodní spolupráce se poskytuje na základě žádosti o mezinárodní spolupráci, a to formou žádosti o doručení písemnosti nebo žádosti o vymáhání nedoplatku na pokutě.
->
-> (2) Žádost o mezinárodní spolupráci obsahuje identifikační údaje soutěžitelů a informace potřebné k zajištění doručování písemnosti nebo vymáhání nedoplatku na pokutě. Rozsah identifikačních údajů těchto soutěžitelů a informací stanoví prováděcí právní předpis.
->
-> (3) K žádosti o mezinárodní spolupráci se přiloží písemnost, která má být doručena, nebo rozhodnutí, na základě kterého má být vymáháno.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=02cd6f4dd4e7675a3870 -->
-
 ### § 24d — Jazyk komunikace
 
 > **§ 24d**
@@ -517,56 +325,6 @@ Zákon rozlišuje žádost o **doručení písemnosti** a žádost o **vymáhán
 **Typicky rozhodné důkazy / podklady:** dohoda o jazyce komunikace, úřední překlad doručované písemnosti/rozhodnutí, doklad o požadavcích práva dožádaného státu, korespondence mezi orgány o jazykovém režimu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=154b34004f26737bdb24 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24d — Jazyk komunikace
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> (1) Úřad zašle žádost o mezinárodní spolupráci v úředním jazyce dožádaného členského státu nebo v jazyce, který byl mezi Úřadem a soutěžním orgánem dožádaného členského státu dohodnut jako jazyk komunikace.
->
-> (2) Vyplývá-li z právního řádu dožádaného členského státu požadavek na překlad písemnosti, která má být doručena, nebo rozhodnutí, na základě kterého má být vymáháno, a pokud se Úřad nedohodne se soutěžním orgánem tohoto členského státu jinak, přiloží Úřad k žádosti o mezinárodní spolupráci také překlad této písemnosti nebo tohoto rozhodnutí do úředního jazyka tohoto členského státu.
->
-> (3) Úřad se může dohodnout se soutěžním orgánem žádajícího členského státu, že žádost o mezinárodní spolupráci, písemnost, která má být doručena, nebo rozhodnutí, na základě kterého má být vymáháno, mohou být Úřadu předány v jiném než českém jazyce.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=154b34004f26737bdb24 -->
 
 ### § 24e — Podmínky odmítnutí žádosti o mezinárodní spolupráci
 
@@ -652,74 +410,6 @@ Odst. 3 reaguje na skutečnost, že přeshraniční spolupráci v praxi nezajiš
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=dd03233097d2c972e56d generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24e — Podmínky odmítnutí žádosti o mezinárodní spolupráci
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> (1) Úřad může odmítnout žádost o mezinárodní spolupráci, pokud
->
-> - a) nemá náležitosti podle § 24c odst. 2 nebo [[#§ 3|3]],
->
-> - b) jde o žádost o mezinárodní spolupráci při vymáhání nedoplatku na pokutě a rozhodnutí přiložené k žádosti o mezinárodní spolupráci není konečné, nebo
->
-> - c) poskytnutí mezinárodní spolupráce by mohlo zjevně ohrozit veřejný pořádek nebo bezpečnost České republiky.
->
-> (2) Úřad může dále odmítnout žádost o mezinárodní spolupráci, pokud
->
-> - a) jde o žádost o mezinárodní spolupráci při vymáhání nedoplatku na pokutě a
->
->   - 1. soutěžitel, od něhož lze nedoplatek na pokutě vymáhat, disponuje v žádajícím členském státě dostatečným majetkem, který by mohl postačovat k uhrazení tohoto nedoplatku, nebo
->
->   - 2. soutěžní orgán žádajícího členského státu nevynaložil přiměřené úsilí ke zjištění údajů podle bodu 1, nebo
->
-> - b) jde o žádost o mezinárodní spolupráci při doručování písemnosti a nejedná se o rozhodnutí nebo jiné písemnosti týkající se uplatňování článků 101 nebo 102 Smlouvy.
->
-> (3) Zjistí-li orgán veřejné moci provádějící úkon při mezinárodní spolupráci, že jsou dány důvody pro odmítnutí žádosti o mezinárodní spolupráci podle odstavce 1, oznámí tuto skutečnost Úřadu spolu s podklady, které jej k tomuto závěru vedly, a odloží provádění těchto úkonů do dne, kdy mu Úřad oznámí, že žádost o mezinárodní spolupráci podle odstavce 1 neodmítne.
->
-> (4) V případě, že Úřad shledá, že existují důvody pro odmítnutí žádosti o mezinárodní spolupráci, může požádat soutěžní orgán žádajícího členského státu o doplňující informace.
->
-> (5) Odmítne-li Úřad žádost o mezinárodní spolupráci, sdělí tuto skutečnost soutěžnímu orgánu žádajícího členského státu. Jde-li o odmítnutí podle odstavce 1 písm. c), doloží Úřad tomuto orgánu skutečnosti, které ho k odmítnutí žádosti o mezinárodní spolupráci vedou, a to v rozsahu, který není způsobilý ohrozit veřejný pořádek nebo bezpečnost České republiky.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 24c, § 3
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=dd03233097d2c972e56d -->
-
 ### § 24f — Omezení posouzení zákonnosti
 
 > **§ 24f**
@@ -782,62 +472,6 @@ Výčet pod písm. a)–e) je taxativní a zahrnuje jak příchozí (písm. a, d
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=2433b6904f0c185c58fc generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24f — Omezení posouzení zákonnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> Orgánu veřejné moci nepřísluší posouzení zákonnosti
->
-> - a) žádosti o mezinárodní spolupráci zaslané soutěžním orgánem jiného členského státu,
->
-> - b) doručení písemnosti v jiném členském státě na základě žádosti o doručení písemnosti,
->
-> - c) vymáhání v dožádaném členském státě na základě žádosti o vymáhání nedoplatku na pokutě,
->
-> - d) písemnosti vydané orgánem žádajícího členského státu, která má být doručena v České republice, nebo
->
-> - e) rozhodnutí vydaného soutěžním orgánem jiného členského státu, které má být vymáháno v České republice.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2433b6904f0c185c58fc -->
-
 ### § 24g — Nedoplatek na pokutě
 
 > **§ 24g**
@@ -887,52 +521,6 @@ Výčet pod písm. a)–e) je taxativní a zahrnuje jak příchozí (písm. a, d
 **Typicky rozhodné důkazy / podklady:** cizí rozhodnutí s vymezením druhu a důvodu sankce, popis funkce sankce v právu žádajícího státu, srovnání s kategoriemi pokut dle OHS.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=b352d08b1f42b734ad60 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24g — Nedoplatek na pokutě
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> Nedoplatkem na pokutě se pro účely tohoto zákona rozumí nedoplatek na pokutě, pořádkové pokutě nebo donucovací pokutě uložených podle tohoto zákona nebo nedoplatek na obdobné pokutě uložené podle právního řádu jiného členského státu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b352d08b1f42b734ad60 -->
 
 ### § 24h — Doručování písemnosti do jiného členského státu
 
@@ -985,52 +573,6 @@ Výčet pod písm. a)–e) je taxativní a zahrnuje jak příchozí (písm. a, d
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=0bf6e4679abaa3d47a22 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24h — Doručování písemnosti do jiného členského státu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> Úřad může dožádat soutěžní orgán jiného členského státu o doručení rozhodnutí nebo jiné písemnosti týkajících se uplatňování článků 101 nebo 102 Smlouvy.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0bf6e4679abaa3d47a22 -->
-
 ### § 24i — Doručování písemnosti z jiného členského státu
 
 > **§ 24i**
@@ -1081,52 +623,6 @@ Při příchozím doručování Úřad zajistí doručení podle **správního �
 **Typicky rozhodné důkazy / podklady:** žádost cizího orgánu o doručení, doručenka/protokol o doručení, údaje o datové schránce adresáta, evidence pokusů o doručení.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=5d1bbfb4d730f5ac4abd generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24i — Doručování písemnosti z jiného členského státu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> Na základě žádosti o doručení písemnosti zaslané soutěžním orgánem jiného členského státu zajistí Úřad její doručení v souladu se správním řádem.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5d1bbfb4d730f5ac4abd -->
 
 ### § 24j — Náklady doručování
 
@@ -1181,54 +677,6 @@ Při příchozím doručování Úřad zajistí doručení podle **správního �
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=e052850c15323654e41f generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24j — Náklady doručování
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> (1) Na žádost soutěžního orgánu dožádaného členského státu uhradí Úřad přiměřené náklady vzniklé v souvislosti s doručováním písemnosti v tomto členském státě.
->
-> (2) Úřad může požádat soutěžní orgán žádajícího členského státu o úhradu nákladů spojených s doručováním písemnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e052850c15323654e41f -->
-
 ### § 24k — Vymáhání nedoplatku na pokutě v jiném členském státě
 
 > **§ 24k**
@@ -1279,52 +727,6 @@ Při příchozím doručování Úřad zajistí doručení podle **správního �
 **Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí o pokutě, doklad o vlivu jednání na obchod mezi členskými státy, podklady o bezvýslednosti domácí exekuce, údaje o majetku povinného v dožádaném státě.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=d4654acbde7731cb29b6 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24k — Vymáhání nedoplatku na pokutě
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> Úřad může dožádat soutěžní orgán jiného členského státu o vymožení nedoplatku na pokutě, která byla uložena při uplatňování článků 101 nebo 102 Smlouvy.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d4654acbde7731cb29b6 -->
 
 ### § 24l — Směnné kurzy a kurzové rozdíly (vymáhání v jiném členském státě)
 
@@ -1377,54 +779,6 @@ Při příchozím doručování Úřad zajistí doručení podle **správního �
 **Typicky rozhodné důkazy / podklady:** rozhodnutí s vyznačením data právní moci, kurzovní lístky ČNB k oběma dnům, doklad o vymožené částce a jejím připsání, výpočet kurzového rozdílu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=0d6a599d6ea4c8ac9ef5 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24l — Směnné kurzy a kurzové rozdíly
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> (1) Při přepočtu částky v české měně na částku v cizí měně se použije kurz devizového trhu vyhlášený Českou národní bankou platný pro den právní moci rozhodnutí uvedeného v žádosti o mezinárodní spolupráci.
->
-> (2) Pokud není nedoplatek na pokutě plně uhrazen pouze v důsledku rozdílu kurzu devizového trhu vyhlášeného Českou národní bankou platného pro den, kdy byla částka převedená orgánem jiného členského státu připsána na účet správce placení nedoplatku na pokutě, a kurzu platného pro den právní moci rozhodnutí uvedeného v žádosti o mezinárodní spolupráci, považuje se nedoplatek na pokutě za uhrazený a zbývající neuhrazená část nedoplatku na pokutě zaniká. Pokud vznikne v důsledku kurzového rozdílu podle věty první přeplatek, stává se příjmem státního rozpočtu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0d6a599d6ea4c8ac9ef5 -->
 
 ### § 24m — Exekuční náklady (vymáhání v jiném členském státě)
 
@@ -1480,56 +834,6 @@ Při odchozím vymáhání hradí Úřad exekuční náklady vzniklé cizímu or
 **Typicky rozhodné důkazy / podklady:** vyúčtování exekučních nákladů, doklad o paušální sazbě dle práva dožádaného státu, doklad o vzájemnosti, evidence nákladů dle daňového řádu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=8734649b83e3d61b379c generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24m — Exekuční náklady
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> (1) Na žádost soutěžního orgánu dožádaného členského státu uhradí Úřad exekuční náklady vzniklé při vymáhání nedoplatku na pokutě. Ustanovení [[daňového řádu|daňového řádu]] o exekučních nákladech nejsou dotčena.
->
-> (2) Náklady podle odstavce 1 jsou také exekučními náklady podle [[daňového řádu|daňového řádu]].
->
-> (3) Je-li zajištěna vzájemnost, může Úřad uhradit exekuční náklady podle odstavce 1 v paušální výši podle právního řádu dožádaného členského státu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8734649b83e3d61b379c -->
 
 ### § 24n — Užití daňového řádu při vymáhání z jiného členského státu
 
@@ -1588,54 +892,6 @@ Odst. 2 stanoví, že vymoženou částku je třeba po odečtení exekučních n
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=7fdbdc471c9099adc209 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24n — Užití [[daňového řádu|daňového řádu]]
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> (1) Při správě placení nedoplatku na pokutě z jiného členského státu se postupuje podle [[daňového řádu|daňového řádu]] v rámci dělené správy. Okamžik počátku, běh a délka lhůty pro placení nedoplatku na pokutě se řídí právním řádem žádajícího členského státu.
->
-> (2) Na vymoženou částku nedoplatku na pokutě z jiného členského státu se pro účely tohoto zákona hledí jako na příjem veřejného rozpočtu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7fdbdc471c9099adc209 -->
-
 ### § 24o — Titul pro vymáhání
 
 > **§ 24o**
@@ -1685,52 +941,6 @@ Odst. 2 stanoví, že vymoženou částku je třeba po odečtení exekučních n
 **Typicky rozhodné důkazy / podklady:** žádost o mezinárodní spolupráci jako titul, cizí rozhodnutí (jen jako příloha žádosti, nikoli samostatný titul), doklad o předání žádosti Úřadem.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=513090d09b8043091ba4 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24o — Titul pro vymáhání nedoplatku na pokutě
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> Žádost o mezinárodní spolupráci je jediným titulem pro vymáhání pohledávky na pokutě v České republice na základě dožádání jiného členského státu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=513090d09b8043091ba4 -->
 
 ### § 24p — Směnné kurzy (vymáhání z jiného členského státu)
 
@@ -1782,52 +992,6 @@ Odst. 2 stanoví, že vymoženou částku je třeba po odečtení exekučních n
 **Typicky rozhodné důkazy / podklady:** cizí rozhodnutí s vyznačeným datem právní moci, kurzovní lístek ČNB k tomuto dni, žádost o mezinárodní spolupráci, výpočet korunové výše pohledávky.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=61e5a9d1a080a3cca835 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24p — Směnné kurzy
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> Výše nedoplatku na pokutě v cizí měně se pro účely tohoto zákona přepočte na českou měnu podle kurzu devizového trhu vyhlášeného Českou národní bankou platného pro den právní moci rozhodnutí uvedeného v žádosti o mezinárodní spolupráci.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=61e5a9d1a080a3cca835 -->
 
 ### § 24q — Exekuční náklady (vymáhání z jiného členského státu)
 
@@ -1882,54 +1046,6 @@ Nastane-li situace, kdy výtěžek exekuce nepostačí na pokrytí exekučních 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=eab71374a2140f0c53aa generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 24q — Exekuční náklady
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> (1) Nejsou-li z výtěžku exekuce uhrazeny exekuční náklady, může Úřad požádat soutěžní orgán žádajícího členského státu o uhrazení těchto exekučních nákladů.
->
-> (2) Exekuční náklady uhrazené podle odstavce 1 se použijí na úhradu exekučních nákladů stanovených dlužníkovi podle [[daňového řádu|daňového řádu]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=eab71374a2140f0c53aa -->
-
 ### § 25 — Převod vymožené částky
 
 > **§ 25**
@@ -1980,52 +1096,6 @@ Nastane-li situace, kdy výtěžek exekuce nepostačí na pokrytí exekučních 
 **Typicky rozhodné důkazy / podklady:** doklad o vymožené částce, vyčíslení exekučních nákladů, sdělení žádajícího orgánu o čísle účtu, doklad o provedeném převodu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=84d7ea0a47c5863a3e14 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 25 — Převod vymožené částky
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> Vymoženou částku nedoplatku na pokutě, popřípadě jeho vymoženou část, sníženou o exekuční náklady, převede správce placení nedoplatku na pokutě na účet určený soutěžním orgánem žádajícího členského státu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=84d7ea0a47c5863a3e14 -->
 
 ## Hlava X — Společná, zmocňovací, přechodná a zrušovací ustanovení
 
@@ -2104,52 +1174,6 @@ Vyloučení zákazu reformatio in peius je z hlediska ochrany účastníků ří
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=034a8b71129cbf4b8059 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 25a — Užití správního řádu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> Není-li tímto zákonem stanoveno jinak, postupuje se v řízení u Úřadu podle [[správního řádu|správního řádu]], s výjimkou ustanovení o řešení rozporů mezi správním orgánem, který vede řízení, a správními orgány, které jsou dotčenými orgány, týkajících se řešení otázky, která je předmětem rozhodování18), ustanovení o zákazu změny napadeného rozhodnutí v neprospěch odvolatele18b), ustanovení o lhůtách pro vydání rozhodnutí18c), dále z ustanovení o zvláštnostech řízení o rozkladu, ustanovení o složení rozkladové komise a o možném způsobu ukončení řízení o rozkladu18d) a dále ustanovení o účastnících řízení18e) a ustanovení o postupu při pochybnostech, zda je někdo účastníkem řízení18f); ustanovení [[správního řádu|správního řádu]] o účastnících řízení podle zvláštního zákona18g) se však použijí.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=034a8b71129cbf4b8059 -->
-
 ### § 25b — Vyloučení kontrolního řádu
 
 > **§ 25b**
@@ -2199,52 +1223,6 @@ Vyloučení zákazu reformatio in peius je z hlediska ochrany účastníků ří
 **Typicky rozhodné důkazy / podklady:** pověření k místnímu šetření dle OHS, protokol o šetření, seznam zajištěných podkladů a dat, dokumentace rozsahu a souvislosti zajištěných informací s předmětem řízení.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=23fb8bdb0b73532570a6 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 25b
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> Na postup Úřadu podle tohoto zákona se právní předpisy o kontrole21) nepoužijí.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=23fb8bdb0b73532570a6 -->
 
 ### § 26 — Zmocňovací ustanovení
 
@@ -2307,56 +1285,6 @@ Vyloučení zákazu reformatio in peius je z hlediska ochrany účastníků ří
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=5e69c301f87b0abafe0c generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 26 — Zmocňovací ustanovení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> (1) Úřad stanoví vyhláškou podrobnosti odůvodnění a dokladů osvědčujících skutečnosti rozhodné pro spojení podle § 15 odst. 3 písm. b) a § 16a odst. 1.
->
-> (2) Úřad může vyhláškou podle § 4 odst. 2 povolit blokovou výjimku ze zákazu dohod podle § 3 odst. 1.
->
-> (3) Úřad vydá vyhlášku k provedení § 22ba odst. 8 a § 24c odst. 2.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 15, § 16a, § 4, § 3, § 22ba, § 24c
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5e69c301f87b0abafe0c -->
-
 ### § 27 — Přechodná ustanovení
 
 > **§ 27**
@@ -2412,54 +1340,6 @@ Vyloučení zákazu reformatio in peius je z hlediska ochrany účastníků ří
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o zahájení řízení s datem, dřívější rozhodnutí o udělení výjimky, doklad o (ne)skončení řízení k datu účinnosti, text dosavadních předpisů.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=908e5980123c13e22f14 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 27 — Přechodná ustanovení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> (1) Výjimky udělené Úřadem podle dosavadní právní úpravy se považují za výjimky vydané podle tohoto zákona.
->
-> (2) Řízení zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních předpisů.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=908e5980123c13e22f14 -->
 
 ### § 28 — Zrušovací ustanovení
 
@@ -2517,57 +1397,6 @@ Derogace je doplněna § 27 odst. 2 (ochrana zahájených řízení) a odst. 1 (
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=5c5e6d903d90a63d6336 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 28 — Zrušovací ustanovení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> Zrušují se:
->
-> - 1. [[Zákon č. 63/1991 Sb., o ochraně hospodářské soutěže|Zákon č. 63/1991 Sb., o ochraně hospodářské soutěže]].
->
-> - 2. [[Zákon č. 495/1992 Sb., kterým se mění a doplňuje zákon č. 63/1991 Sb., o ochraně hospodářské soutěže|Zákon č. 495/1992 Sb., kterým se mění a doplňuje zákon č. 63/1991 Sb., o ochraně hospodářské soutěže]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- zákon č. 63/1991 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 495/1992 Sb. (výslovně uvedeno v místním znění)
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5c5e6d903d90a63d6336 -->
-
 ## Změny souvisejících zákonů a účinnost
 
 ---
@@ -2620,57 +1449,6 @@ Derogace je doplněna § 27 odst. 2 (ochrana zahájených řízení) a odst. 1 (
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=7fe636f40d0a77a51cea generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 29
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> V [[zákoně č. 286/1993 Sb|zákoně č. 286/1993 Sb.]], kterým se mění a doplňuje [[zákon č. 63/1991 Sb., o ochraně hospodářské soutěže|zákon č. 63/1991 Sb., o ochraně hospodářské soutěže]], ve znění [[zákona č. 495/1992 Sb|zákona č. 495/1992 Sb.]], a [[zákon č. 513/1991 Sb., obchodní zákoník|zákon č. 513/1991 Sb., obchodní zákoník]], ve znění [[zákona č. 264/1992 Sb|zákona č. 264/1992 Sb.]], [[zákona č. 591/1992 Sb|zákona č. 591/1992 Sb.]] a [[zákona č. 600/1992 Sb|zákona č. 600/1992 Sb.]], se [[čl. I|čl. I]], [[II|II]] a [[IV|IV]] zrušují.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- zákon č. 63/1991 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 495/1992 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 513/1991 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 264/1992 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 591/1992 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 600/1992 Sb. (výslovně uvedeno v místním znění)
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7fe636f40d0a77a51cea -->
-
 ### § 30 — Změna zákona č. 132/2000 Sb.
 
 > **§ 30**
@@ -2718,52 +1496,6 @@ Derogace je doplněna § 27 odst. 2 (ochrana zahájených řízení) a odst. 1 (
 **Typicky rozhodné důkazy / podklady:** text § 30 OHS, text čl. XVI zákona č. 132/2000 Sb., ustanovení nového OHS o příslušnosti Úřadu, doklad o derogaci č. 63/1991 Sb.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=023a658e68f7a6f86719 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 30
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> V [[zákoně č. 132/2000 Sb., o změně a zrušení některých zákonů souvisejících se zákonem o krajích, zákonem o obcích, zákonem o okresních úřadech a zákonem o hlavním městě Praze|zákoně č. 132/2000 Sb., o změně a zrušení některých zákonů souvisejících se zákonem o krajích, zákonem o obcích, zákonem o okresních úřadech a zákonem o hlavním městě Praze]], se [[článek XVI|článek XVI]] zrušuje.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=023a658e68f7a6f86719 -->
 
 ### § 31 — Účinnost
 
@@ -2821,48 +1553,3 @@ Zákon byl v průběhu své existence opakovaně novelizován. Podstatné novely
 ---
 
 > Tato kapitola uzavírá komentář k zákonu č. 143/2001 Sb., o ochraně hospodářské soutěže. Ke komentáři k přestupkům a pokutám viz [04-hlava7-prestupky.md](04-hlava7-prestupky.md).
-
-<!-- LEGAL-REVISION:BEGIN id=d5fa6d9d9579c565aacc generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
-#### Revizní doplnění k § 31
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
-
-##### Znění ustanovení
-
-> Tento zákon nabývá účinnosti dnem 1. července 2001.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d5fa6d9d9579c565aacc -->
