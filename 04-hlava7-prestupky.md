@@ -120,6 +120,74 @@ V praxi § 22 vymezuje přestupky fyzické osoby-soutěžitele se sazbami v abso
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b119f6a2b11689ef75c3 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
+#### Revizní doplnění k § 22 — Přestupky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se jako soutěžitel dopustí přestupku tím, že
+>
+> - a) poruší pečeť umístěnou v průběhu šetření podle § 21f odst. 2 písm. e),
+>
+> - b) uzavře dohodu v rozporu s § 3 odst. 1,
+>
+> - c) v rozporu s § 11 odst. 1 zneužije své dominantní postavení,
+>
+> - d) uskutečňuje spojení v rozporu s § 18 odst. 1,
+>
+> - e) nesplní závazek podle § 7 odst. 2, § 11 odst. 3 nebo § 17 odst. 4 anebo nesplní opatření podle § 18 odst. 5,
+>
+> - f) nesplní opatření k nápravě uložené Úřadem podle § 20 odst. 4 nebo jinou povinnost stanovenou rozhodnutím Úřadu, nebo
+>
+> - g) neposkytne Úřadu nezbytnou součinnost při šetření na místě v obchodních prostorách nebo v jiných než obchodních prostorách nebo poruší povinnost strpět šetření na místě v obchodních prostorách nebo v jiných než obchodních prostorách podle § 21f odst. 3.
+>
+> (2) Fyzická osoba se dopustí přestupku tím, že
+>
+> - a) neposkytne Úřadu úplné, správné nebo pravdivé obchodní záznamy podle § 21e odst. 1, nebo
+>
+> - b) poruší povinnost strpět šetření na místě v obchodních prostorách nebo v jiných než obchodních prostorách podle § 21f odst. 4.
+>
+> (3) Za přestupek podle odstavce 1 písm. a) nebo g) anebo podle odstavce 2 lze uložit pokutu do 300 000 Kč a za přestupek podle odstavce 1 písm. b), c), d), e) nebo f) pokutu do 10 000 000 Kč, není-li dále stanoveno, že za přestupek podle odstavce 1 písm. b) se pokuta neuloží.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21f, § 3, § 11, § 18, § 7, § 17, § 20, § 21e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b119f6a2b11689ef75c3 -->
+
 ### § 22a — Přestupky právnických osob a podnikajících fyzických osob
 
 > **§ 22a**
@@ -266,6 +334,84 @@ V odst. 1 písm. f) zdroje je použit výraz „úřadem" s malým počáteční
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f25e470be9b7a8fa5d12 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
+#### Revizní doplnění k § 22a — Přestupky právnických osob a podnikajících fyzických osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se jako soutěžitel dopustí přestupku tím, že
+>
+> - a) poruší pečeť umístěnou v průběhu šetření podle § 21f odst. 2 písm. e),
+>
+> - b) uzavře dohodu v rozporu s § 3 odst. 1,
+>
+> - c) v rozporu s § 11 odst. 1 zneužije své dominantní postavení,
+>
+> - d) uskutečňuje spojení v rozporu s § 18 odst. 1,
+>
+> - e) nesplní závazek podle § 7 odst. 2, § 11 odst. 3 nebo § 17 odst. 4 anebo nesplní opatření podle § 18 odst. 5,
+>
+> - f) nesplní opatření k nápravě uložené úřadem podle § 20 odst. 4 nebo jinou povinnost stanovenou rozhodnutím Úřadu, nebo
+>
+> - g) neposkytne Úřadu nezbytnou součinnost při šetření na místě v obchodních prostorách nebo v jiných než obchodních prostorách nebo poruší povinnost strpět šetření na místě v obchodních prostorách nebo v jiných než obchodních prostorách podle § 21f odst. 3.
+>
+> (2) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+>
+> - a) neposkytne Úřadu úplné, správné nebo pravdivé obchodní záznamy podle § 21e odst. 1, nebo
+>
+> - b) poruší povinnost strpět šetření na místě v obchodních prostorách nebo v jiných než obchodních prostorách podle § 21f odst. 4.
+>
+> (3) Za přestupek podle odstavce 1 písm. a) nebo g) se uloží pokuta do 300 000 Kč nebo 1 % z čistého obratu dosaženého soutěžitelem za poslední ukončené účetní období, za přestupek podle odstavce 2 se uloží pokuta do 300 000 Kč nebo 1 % z čistého obratu dosaženého touto osobou za poslední ukončené účetní období a za přestupek podle odstavce 1 písm. b, c), d), e) nebo f) se uloží pokuta do 10 000 000 Kč nebo 10 % z čistého obratu dosaženého soutěžitelem za poslední ukončené účetní období, není-li dále stanoveno, že za přestupek podle odstavce 1 písm. b) se pokuta neuloží. Sazba pokuty se nestanoví z obratu soutěžitele, pokud by tak nebylo dosaženo účelu uložení pokuty.
+>
+> (4) Dopustí-li se téhož přestupku více osob, které tvoří jednoho soutěžitele, odpovídají za uhrazení uložené pokuty společně a nerozdílně.
+>
+> (5) Je-li pokuta podle odstavce 3 ukládána sdružení soutěžitelů, může být uložena až do výše 10 % z úhrnu čistých obratů dosažených za poslední ukončené účetní období jeho členy. Není-li pokuta zaplacena v plné výši, každý člen sdružení, který byl zastoupen v rozhodovacím orgánu sdružení, ručí za zaplacení uložené pokuty do výše 10 % ze svého čistého obratu dosaženého za poslední ukončené účetní období. Není-li přesto pokuta zaplacena v plné výši, ručí následně za zaplacení pokuty každý, kdo byl členem sdružení, do výše 10 % ze svého čistého obratu dosaženého za poslední ukončené účetní období. Za pokutu neručí člen sdružení, který nebyl jeho členem v době páchání přestupku nebo který prokáže, že rozhodnutí sdružení vedoucí k narušení hospodářské soutěže neprovedl, a před zahájením správního řízení o tomto rozhodnutí nevěděl nebo ho odmítl.
+>
+> (6) Za přestupek podle odstavce 1 písm. b) spáchaný v souvislosti se zadáváním nebo zadáním veřejné zakázky nebo v souvislosti s uzavíráním smlouvy o veřejných službách v přepravě cestujících může Úřad spolu s pokutou podle odstavce 3 uložit zákaz plnění veřejných zakázek a poskytování veřejných služeb v přepravě cestujících na dobu nejdéle 3 let. Soutěžiteli, kterému byla snížena pokuta podle [[#§ 22bb|§ 22bb]], lze uložit zákaz plnění veřejných zakázek a poskytování veřejných služeb v přepravě cestujících na dobu nejdéle 1 roku. Tento zákaz nelze uložit soutěžiteli, u kterého bylo upuštěno od uložení pokuty podle § 22ba odst. 1 písm. a) nebo kterému byla pokuta snížena podle § 22ba odst. 1 písm. b).
+>
+> (7) Trest zákazu plnění veřejných zakázek a poskytování veřejných služeb v přepravě cestujících spočívá v tom, že se právnické osobě nebo podnikající fyzické osobě po dobu výkonu tohoto trestu zakazuje uzavírat smlouvy na plnění veřejných zakázek a uzavírat smlouvy o veřejných službách v přepravě cestujících. Tento zákaz se neuplatní v případech použití jednacího řízení bez uveřejnění, pokud je zadání veřejné zakázky nezbytné v důsledku krajně naléhavé okolnosti, kterou zadavatel nemohl předvídat a ani ji nezpůsobil, a nelze dodržet lhůty pro otevřené řízení, užší řízení nebo jednací řízení s uveřejněním. Běh doby, na kterou se zákaz plnění veřejných zakázek a poskytování veřejných služeb v přepravě cestujících ukládá, začíná dnem, kdy rozhodnutí, kterým byl tento zákaz uložen, nabylo právní moci.
+>
+> (8) Úřad vede veřejný rejstřík osob se zákazem plnění veřejných zakázek a poskytování veřejných služeb v přepravě cestujících, do kterého se zapisují identifikační údaje právnické nebo podnikající fyzické osoby, které byl uložen zákaz plnění veřejných zakázek a poskytování veřejných služeb v přepravě cestujících, den, od kterého výkon tohoto zákazu začíná, a den, kdy končí, identifikace rozhodnutí ukládajícího zákaz plnění veřejných zakázek a poskytování veřejných služeb v přepravě cestujících. Rejstřík se zveřejní způsobem umožňujícím dálkový přístup.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21f, § 3, § 11, § 18, § 7, § 17, § 20, § 21e, § 22bb, § 22ba
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f25e470be9b7a8fa5d12 -->
+
 ### § 22aa — Přestupky orgánů veřejné správy
 
 > **§ 22aa**
@@ -360,6 +506,68 @@ Absence obrátové sazby je logická — orgány veřejné správy nemají „č
 **Typicky rozhodné důkazy / podklady:** text vyhlášky/opatření orgánu a jeho dopad na trh, ekonomická analýza vyloučení konkurentů, výzva Úřadu a doklad o (ne)poskytnutí podkladů, smlouvy a interní akty orgánu, podnět dotčeného soutěžitele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=061ca29a7c129a61107f generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
+#### Revizní doplnění k § 22aa — Přestupky orgánů veřejné správy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
+
+##### Znění ustanovení
+
+> (1) Orgán veřejné správy se dopustí přestupku tím, že
+>
+> - a) poruší pečeť umístěnou v průběhu šetření podle § 21f odst. 2 písm. e),
+>
+> - b) v rozporu s § 19a odst. 1 naruší hospodářskou soutěž,
+>
+> - c) nesplní závazek podle § 19a odst. 4,
+>
+> - d) nesplní opatření k nápravě uložené rozhodnutím Úřadu podle § 20 odst. 4 nebo jinou povinnost stanovenou rozhodnutím Úřadu,
+>
+> - e) neposkytne Úřadu úplné, správné nebo pravdivé obchodní záznamy podle § 21e odst. 1,
+>
+> - f) neposkytne Úřadu nezbytnou součinnost při šetření na místě nebo poruší povinnost strpět šetření na místě podle § 21f odst. 3, nebo
+>
+> - g) poruší povinnost strpět šetření na místě podle § 21f odst. 4.
+>
+> (2) Za přestupek podle odstavce 1 písm. a), e), f) nebo g) se uloží pokuta do 300 000 Kč a za přestupek podle odstavce 1 písm. b), c) nebo d) pokuta do 10 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21f, § 19a, § 20, § 21e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=061ca29a7c129a61107f -->
 
 ### § 22b — Společná ustanovení k přestupkům
 
@@ -491,6 +699,70 @@ Na rozdíl od standardního přestupkového řízení (§ 76 odst. 3 PŘ) se oso
 **Typicky rozhodné důkazy / podklady:** projekt přeměny a doklady o přechodu jmění, účetní podklady o výnosech z přestupku přešlých na nástupce, doklad o kontinuitě činnosti, procesní spisy společného/samostatných řízení, podklady k chování účastníka v řízení a k nápravě.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fe9b1848197d45c184aa generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
+#### Revizní doplnění k § 22b — Společná ustanovení k přestupkům
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
+
+##### Znění ustanovení
+
+> (1) Při určení výměry pokuty právnické osobě nebo orgánu veřejné správy a při ukládání a určení délky zákazu plnění veřejných zakázek se přihlédne k závažnosti přestupku, zejména ke způsobu jeho spáchání a jeho následkům a k okolnostem, za nichž byl spáchán. Dále se přihlédne k jednání právnické osoby nebo orgánu veřejné správy v průběhu řízení před Úřadem a jejich snaze odstranit škodlivé následky přestupku.
+>
+> (2) Na odpovědnost podnikající fyzické osoby za přestupek se použijí obdobně ustanovení [[§ 20|§ 20]] a [[21|21]] [[zákona o odpovědnosti za přestupky a řízení o nich|zákona o odpovědnosti za přestupky a řízení o nich]], s výjimkou [[§ 20 odst. 1|§ 20 odst. 1]] a [[2|2]], [[§ 20 odst. 4 písm. a)|§ 20 odst. 4 písm. a)]] a [[b)|b)]] a [[§ 20 odst. 5|§ 20 odst. 5.]]
+>
+> (3) Při výměře pokuty právnímu nástupci právnické osoby se přihlédne též k tomu, v jakém rozsahu přešly na právního nástupce výnosy, užitky a jiné výhody ze spáchaného přestupku, a k tomu, pokračuje-li některý z právních nástupců v činnosti, při které byl přestupek spáchán.
+>
+> (4) Přestupky podle tohoto zákona projednává Úřad.
+>
+> (5) Společné řízení, ve kterém mají být projednány přestupky více podezřelých, je zahájeno doručením oznámení o zahájení řízení prvnímu z nich.
+>
+> (6) Úřad může přestupky, které mají být podle zákona projednány ve společném řízení, projednat samostatně, jestliže při ukládání správních trestů přihlédne k správním trestům uloženým za tyto přestupky v samostatných řízeních.
+>
+> (7) Alespoň jedna oprávněná úřední osoba podílející se na řízení o přestupku vedeném Úřadem v každém stupni musí mít vysokoškolské vzdělání nejméně v magisterském studijním programu v oboru právo na vysoké škole v České republice. Ustanovení zákona upravujícího řízení o přestupcích, která se týkají požadavků na vzdělání oprávněných úředních osob, se na řízení o přestupcích, k jejichž projednání je příslušný Úřad podle tohoto zákona, nepoužijí.
+>
+> (8) Na postup Úřadu podle tohoto zákona se ustanovení [[§ 13 odst. 2|§ 13 odst. 2]] a [[3|3]], [[§ 16|§ 16]], [[17|17]], [[§ 20 odst. 5|§ 20 odst. 5]], [[§ 24 až 27|§ 24 až 27]], [[§ 29 písm. c)|§ 29 písm. c)]], [[§ 35 písm. a)|§ 35 písm. a)]] a [[d)|d)]], [[§ 36|§ 36]], [[37|37]], [[§ 39 písm. b)|§ 39 písm. b)]], [[§ 42|§ 42]], [[43|43]], [[45|45]], [[48|48]], [[49|49]], [[§ 51 písm. b)|§ 51 písm. b)]], [[§ 53|§ 53]], [[54|54]], [[§ 68 písm. b)|§ 68 písm. b)]] a [[c)|c)]], [[§ 70|§ 70]], [[71|71]], [[§ 76 odst. 1 písm. i)|§ 76 odst. 1 písm. i)]] a [[l)|l)]], [[§ 76 odst. 5|§ 76 odst. 5]], [[§ 78 odst. 2|§ 78 odst. 2]] věty třetí, [[§ 78 odst. 3|§ 78 odst. 3]], [[§ 80 odst. 2|§ 80 odst. 2]] a [[3|3]], [[§ 81|§ 81]], [[§ 82 odst. 1|§ 82 odst. 1]], [[§ 85 odst. 3|§ 85 odst. 3]], [[§ 87|§ 87]], [[§ 89 až 92|§ 89 až 92]], [[§ 93 odst. 1 písm. g)|§ 93 odst. 1 písm. g)]] a [[h)|h)]], [[§ 93 odst. 3|§ 93 odst. 3]], [[§ 94|§ 94]], [[§ 95 odst. 3|§ 95 odst. 3]], [[§ 96 odst. 1 písm. b)|§ 96 odst. 1 písm. b)]], [[§ 96 odst. 2|§ 96 odst. 2]] a [[3|3]], [[§ 98 odst. 2|§ 98 odst. 2]], [[§ 99 odst. 2|§ 99 odst. 2]] a [[§ 101|§ 101]] zákona [[o odpovědnosti za přestupky a řízení o nich|o odpovědnosti za přestupky a řízení o nich]] nepoužijí.
+>
+> (9) Pokračuje-li obviněný v jednání, pro které je s ním zahájeno řízení o pokračujícím, trvajícím nebo hromadném přestupku spočívajícím v narušení hospodářské soutěže, i po zahájení tohoto řízení, považuje se toto jednání až do sdělení výhrad za jeden skutek.
+>
+> (10) Osoba dotčená jednáním podezřelého se o odložení věci nevyrozumí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20, § 13, § 16, § 24, § 29, § 35, § 36, § 39, § 42, § 51, § 53, § 68, § 70, § 76, § 78, § 80, § 81, § 82, § 85, § 87, § 89, § 93, § 94, § 95, § 96, § 98, § 99, § 101
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fe9b1848197d45c184aa -->
 
 ### § 22ba — Shovívavost (leniency program)
 
@@ -649,6 +921,88 @@ Zákon odkazuje na prováděcí právní předpis pro specifikaci rozsahu identi
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b0799774a4db0e009f29 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
+#### Revizní doplnění k § 22ba — Shovívavost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
+
+##### Znění ustanovení
+
+> (1) Jestliže Úřad uzná soutěžitele vinným z přestupku podle § 22 odst. 1 písm. b) nebo podle § 22a odst. 1 písm. b),
+>
+> - a) upustí od uložení pokuty, pokud soutěžitel
+>
+> - 1. jako první ze všech soutěžitelů předloží Úřadu informace a podklady o utajované dohodě nebo utajovaném jednání ve vzájemné shodě, jejichž cílem je narušení hospodářské soutěže (dále jen „utajovaná dohoda“), které Úřad dosud nezískal a které odůvodňují provedení cíleného šetření na místě anebo prokazují existenci takové utajované dohody,
+>
+> - 2. přizná účast na utajované dohodě,
+>
+> - 3. nečinil nátlak na ostatní soutěžitele, aby se utajované dohody účastnili, a
+>
+> - 4. poskytne Úřadu všechny jemu dostupné podklady a informace o utajované dohodě, nebo
+>
+> - b) sníží pokutu, o jejíž výši informoval účastníky řízení ve sdělení výhrad, až o 50 %, pokud soutěžitel předloží Úřadu informace a podklady o utajované dohodě, které mají významnou přidanou důkazní hodnotu ve vztahu k důkazní hodnotě podkladů a informací Úřadem dosud získaných, a splní podmínky podle písmene a) bodů 2 a [[#§ 4|4]]; přihlédne při tom k pořadí soutěžitelů, k době, kdy předloží Úřadu informace a podklady o utajované dohodě, a k míře, v jaké informace a podklady posilují svou povahou nebo podrobností možnost Úřadu prokázat utajovanou dohodu.
+>
+> (2) Úřad může upustit od uložení pokuty nebo snížit pokutu jen na základě žádosti o shovívavost podané soutěžitelem, který
+>
+> - a) ukončil účast v utajované dohodě,
+>
+> - b) aktivně napomáhá objasnění případu,
+>
+> - c) neničí, nepadělá nebo nezatajuje důkazy nebo důležité informace, a to ani v době, kdy zvažoval podání žádosti o shovívavost,
+>
+> - d) bez svolení Úřadu nesdělí nebo neposkytne žádné informace o podání žádosti o shovívavost nebo o jejím obsahu dříve, než Úřad vydá v této věci sdělení výhrad, ledaže tak učiní u jiných orgánů pro ochranu hospodářské soutěže, a
+>
+> - e) poskytne informace o veškerých minulých či možných budoucích žádostech o shovívavost podaných v souvislosti s údajnou utajovanou dohodou u jakéhokoli soutěžního orgánu jiného členského státu nebo Komise.
+>
+> (3) Úřad může soutěžiteli zachovat pořadí za účelem shromáždění informací a podkladů nezbytných pro podání žádosti o upuštění od uložení pokuty stanovením lhůty pro její podání. Informace a podklady podané ve stanovené lhůtě budou považovány za podané k okamžiku podání žádosti o zachování pořadí.
+>
+> (4) Soutěžiteli je na základě souhrnné žádosti zachováno pořadí pro podání žádosti o shovívavost. Souhrnnou žádost lze podat, pokud soutěžitel podal v téže věci žádost o shovívavost nebo žádost o zachování pořadí u Komise a v žádosti popsaným jednáním jsou dotčena území více než 3 členských států. Jestliže souhrnná žádost obsahuje náležitosti podle odstavce 8 a Úřad neeviduje v téže věci žádnou jinou žádost, informuje o tom žadatele. Úřad je oprávněn vyzvat soutěžitele k doplnění skutečností obsažených v souhrnné žádosti.
+>
+> (5) Hodlá-li Úřad zahájit ve věci podle odstavce 4 řízení o přestupku, vyzve soutěžitele k podání žádosti o shovívavost a stanoví mu k tomu lhůtu. Tato žádost bude považována za podanou k okamžiku podání žádosti o zachování pořadí souhrnnou žádostí, pokud je podána ve lhůtě stanovené Úřadem a v téže věci jako žádost podaná u Komise.
+>
+> (6) Žádost o upuštění od uložení pokuty musí být podána nejpozději do dne, kdy bylo soutěžiteli doručeno sdělení výhrad. Žádost o snížení pokuty musí být podána nejpozději do 15 dnů ode dne, kdy bylo soutěžiteli doručeno sdělení výhrad. Žádost o shovívavost, která byla podána později, se projedná jen v případech hodných zvláštního zřetele.
+>
+> (7) Žádost o shovívavost lze vzít zpět do 15 dnů ode dne uplynutí lhůty pro její podání. K žádosti o shovívavost, která byla vzata zpět, a k podkladům a informacím k ní přiloženým se v řízení o přestupku nepřihlíží.
+>
+> (8) Žádost o shovívavost, žádost o zachování pořadí a souhrnná žádost obsahují vedle obecných náležitostí stanovených správním řádem identifikační údaje soutěžitelů a popis skutku. Rozsah identifikačních údajů soutěžitelů a popis skutku stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22, § 22a, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b0799774a4db0e009f29 -->
+
 ### § 22bb — Narovnání
 
 > **§ 22bb**
@@ -744,6 +1098,60 @@ Narovnání a leniency se vzájemně nevylučují — soutěžitel, který získ
 **Typicky rozhodné důkazy / podklady:** sdělení výhrad s vyčíslením pokuty, písemné sdělení o vstupu do narovnání s dokladem o dodržení lhůty, žádost o snížení pokuty s přiznáním, protokol o samostatném ústním jednání, podklady dokládající procesní úspory (složitost a délka řízení, spolupráce účastníka).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1db2ce1a7b8236ed5435 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
+#### Revizní doplnění k § 22bb — Narovnání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
+
+##### Znění ustanovení
+
+> (1) Po zahájení řízení o narušení hospodářské soutěže může Úřad za účelem dosažení procesních úspor zahájit narovnání, jestliže účastník řízení ve lhůtě stanovené Úřadem písemně sdělí, že vstoupí do narovnání; ke sdělení učiněnému po stanovené lhůtě Úřad nemusí přihlédnout.
+>
+> (2) V rámci narovnání může účastník řízení podat žádost o snížení pokuty narovnáním, ve které přizná narušení hospodářské soutěže, o němž byl informován ve sdělení výhrad. Žádost musí být podána nejpozději do 15 dnů ode dne, kdy bylo účastníku řízení doručeno sdělení výhrad. K žádosti, která byla podána později, Úřad přihlédne jen v případech hodných zvláštního zřetele.
+>
+> (3) Ústní jednání v rámci narovnání je vedeno s každým účastníkem řízení samostatně.
+>
+> (4) Úřad může kdykoliv narovnání ukončit zcela nebo ve vztahu k jednomu či více účastníkům řízení s ohledem na povahu a závažnost narušení hospodářské soutěže nebo má-li za to, že dosažení procesních úspor nelze očekávat. Nepodá-li účastník řízení žádost podle odstavce 2, je narovnání s tímto účastníkem řízení skončeno.
+>
+> (5) Jestliže Úřad uzná účastníka řízení vinným z narušení hospodářské soutěže, sníží na základě žádosti podle odstavce 2 pokutu, o jejíž výši informoval účastníka řízení ve sdělení výhrad, o 10 až 20 %. Přihlédne přitom k míře dosažených procesních úspor, zejména ke složitosti řízení, délce jeho vedení a spolupráci účastníka řízení v rámci narovnání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1db2ce1a7b8236ed5435 -->
 
 ### § 22c — Pořádková pokuta
 
@@ -844,6 +1252,62 @@ I zde platí výjimka: „Sazba pokuty se nestanoví z obratu soutěžitele, pok
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=052916a28baa9556636c generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
+#### Revizní doplnění k § 22c — Pořádková pokuta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
+
+##### Znění ustanovení
+
+> (1) Pořádkovou pokutu lze uložit tomu, kdo ztěžuje postup Úřadu tím, že
+>
+> - a) neposkytne na písemnou výzvu ve stanovené lhůtě obchodní záznamy, nebo
+>
+> - b) se bez náležité omluvy nedostaví na předvolání.
+>
+> (2) Vyžaduje-li to zajištění průběhu a účelu řízení, lze pořádkovou pokutu uložit soutěžiteli, který poruší povinnost strpět šetření na místě v obchodních prostorách nebo v jiných než obchodních prostorách podle § 21f odst. 3.
+>
+> (3) Pořádkovou pokutu lze uložit až do výše 300 000 Kč nebo 10 % z průměrného denního čistého obratu dosaženého soutěžitelem za poslední ukončené účetní období za každý den nesplnění povinnosti. Sazba pokuty se nestanoví z obratu soutěžitele, pokud by tak nebylo dosaženo účelu uložení pokuty.
+>
+> (4) Pořádkovou pokutu lze uložit i opakovaně. Celková výše opakovaně ukládaných pokut nesmí přesáhnout 10 000 000 Kč nebo 10 % z čistého obratu dosaženého soutěžitelem za poslední ukončené účetní období.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=052916a28baa9556636c -->
+
 ### § 22d — Exekuce na nepeněžitá plnění ukládáním donucovacích pokut
 
 > **§ 22d**
@@ -911,6 +1375,54 @@ Donucovací pokutu lze uložit opakovaně v rámci celkového stropu. I zde plat
 **Typicky rozhodné důkazy / podklady:** pravomocné a vykonatelné rozhodnutí s nepeněžitou povinností a doložka právní moci, doklad o nesplnění (trvající protiprávní stav), účetní závěrka (výpočet denního i ročního obratu), evidence dnů prodlení, podklady o případném částečném splnění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0671d276f220817171b3 generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
+#### Revizní doplnění k § 22d — Exekuce na nepeněžitá plnění ukládáním donucovacích pokut
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
+
+##### Znění ustanovení
+
+> (1) Při provádění exekuce na nepeněžitá plnění ukládáním donucovacích pokut lze uložit donucovací pokutu do výše 300 000 Kč nebo 10 % z průměrného denního čistého obratu dosaženého soutěžitelem za poslední ukončené účetní období za každý den nesplnění povinnosti. Sazba pokuty se nestanoví z obratu soutěžitele, pokud by tak nebylo dosaženo účelu uložení pokuty.
+>
+> (2) Donucovací pokutu lze uložit i opakovaně. Celková výše opakovaně ukládaných donucovacích pokut nesmí přesáhnout 10 000 000 Kč nebo 10 % z čistého obratu dosaženého soutěžitelem za poslední ukončené účetní období.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0671d276f220817171b3 -->
 
 ### § 23 — Promlčecí doba, stavení a přerušení promlčecí doby
 
@@ -1029,3 +1541,66 @@ Absolutní 14letá lhůta pro obecné přestupky je mimořádně dlouhá a odrá
 **Typicky rozhodné důkazy / podklady:** doklady o době trvání a ukončení protiprávního jednání, oznámení o zahájení řízení s datem doručení, sdělení výhrad, rozhodnutí o vině (data přerušujících úkonů), doklady o délce soudního/unijního řízení (stavení), protokoly k procedurálním přestupkům s daty (počátek 3leté lhůty).
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=7b79d132fc44e917672a generator=2026-07-17.4 source_sha256=cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0 -->
+#### Revizní doplnění k § 23 — Promlčecí doba, stavení a přerušení promlčecí doby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/143-2001 Zákon o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže).md`; identifikátor verze: `SB-2001-00143_2025-04-03`; SHA-256: `cebeb7fd09a3038d3e862ed3b93b5792a0eeecc4e5e6da64b72b945972cccdf0`.
+
+##### Znění ustanovení
+
+> (1) Promlčecí doba podle tohoto zákona činí 10 let.
+>
+> (2) Promlčecí doba za porušení pečetě umístěné podle § 21f odst. 2 písm. e), neposkytnutí úplných, správných nebo pravdivých obchodních záznamů podle § 21e odst. 1, neposkytnutí nezbytné součinnosti při šetření na místě v obchodních prostorách nebo v jiných než obchodních prostorách a za porušení povinnosti strpět šetření na místě v obchodních prostorách nebo v jiných než obchodních prostorách podle § 21f odst. 3 a za porušení povinnosti strpět šetření na místě v obchodních prostorách nebo v jiných než obchodních prostorách podle § 21f odst. 4 činí 3 roky. Ustanovení odstavce 4 písm. d) se nepoužije.
+>
+> (3) Do promlčecí doby se nezapočítává dále doba řízení vedeného v souvislosti s řízením ve věci přestupku před soudem ve správním soudnictví a doba řízení vedeného pro stejné jednání před Komisí nebo před soutěžním orgánem jiného členského státu.
+>
+> (4) Promlčecí doba se přerušuje
+>
+> - a) oznámením o zahájení řízení o přestupku,
+>
+> - b) vydáním sdělení výhrad,
+>
+> - c) vydáním rozhodnutí, jímž je obviněný uznán vinným,
+>
+> - d) okamžikem předání věci Komisí nebo soutěžním orgánem jiného členského státu Úřadu.
+>
+> (5) Přerušením promlčecí doby počíná běžet promlčecí doba nová.
+>
+> (6) Byla-li promlčecí doba přerušena, odpovědnost za přestupek zanikne nejpozději uplynutím 14 let od jeho spáchání a odpovědnost za přestupky podle odstavce 2 zanikne nejpozději uplynutím 6 let od jejich spáchání. Tato doba se prodlužuje o dobu podle odstavce 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21f, § 21e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7b79d132fc44e917672a -->
